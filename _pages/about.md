@@ -100,9 +100,6 @@ I have published papers at the top international AI conferences with total <a hr
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-
 - *2023.06* Top-3% Paper recongition, ICASSP 2023.
 - *2021.10 - 2023.10* Outstanding Student Award & Second-class Scholarship (**×3**), Tsinghua University.
 - *2021.06* Province-level Outstanding Graduate Student Award (**Top 5 in 242 students**), Central South University.
@@ -114,13 +111,14 @@ I have published papers at the top international AI conferences with total <a hr
 <div style="display: flex; align-items: center;">
   <img src="../images/THU.png" alt="" style="width: 50px; margin-right: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
-    <li>*2021.09 - present*, School of Software, Tsinghua University</li>
+    <li><em>2021.09 - present<\em>, School of Software, Tsinghua University</li>
   </ul>
 </div>
+
 <div style="display: flex; align-items: center;">
-  <img src="../images/THU.png" alt="" style="width: 50px; margin-right: 20px;"/>
+  <img src="../images/CSU.png" alt="" style="width: 50px; margin-right: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
-    <li>*2017.09 - 2021.06*, School of Computer Science and Engineering, Central South University</li>
+    <li><em>2017.09 - 2021.06<\em>, School of Computer Science and Engineering, Central South University</li>
   </ul>
 </div>
 
