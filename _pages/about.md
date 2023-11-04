@@ -79,51 +79,9 @@ I have published papers at the top international AI conferences with total <a hr
 - ``IPM`` [Reducing 0s bias in video moment retrieval with a circular competence-based captioner](https://www.sciencedirect.com/science/article/pii/S0306457322002485). Guolong Wang, **Xun Wu**, Zhaoyuan Liu, Zhen Qin. Information Processing & Management (<b>IPM</b>, IF=8.6), 2022.
 - ``ACMMM 2022`` [Prompt-based Zero-shot Video Moment Retrieval](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004). Guolong Wang *, **Xun Wu** *, Zhaoyuan Liu, JunChi Yan. Proceedings of the 30th ACM International Conference on Multimedia (<b>ACMMM</b>), 2022.
 
-<!--
-<!-- ICIP23 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2023</div><img src='images/ICIP23.png' alt="sym" width="300px"></div></div>
-<div class='paper-box-text' markdown="1">
-[Joint Demosaicing and Denoising with Gradient Guidance in Quad Bayer CFA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10222116)
-  
-**Xun Wu** *, Yaqi Wu *, Jiawei Zhang, Feng Zhang, Jimmy S. Ren
+#### Low-level Vision
+- ``ICIP 2023`` [Joint Demosaicing and Denoising with Gradient Guidance in Quad Bayer CFA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10222116). **Xun Wu** *, Yaqi Wu *, Jiawei Zhang, Feng Zhang, Jimmy S. Ren. IEEE International Conference on Image Processing (<b>ICIP</b>), 2023.
 
-IEEE International Conference on Image Processing (<b>ICIP</b>), 2023.
-</div>
-</div>
-
-<!-- ICASSP23 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2023</div><img src='images/ICASSP23.png' alt="sym" width="300px"></div></div>
-<div class='paper-box-text' markdown="1">
-[Instance-Aware Hierarchical Structured Policy for Prompt Learning in Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/10095231)
-  
-**Xun Wu** *, Guolong Wang *, Zhaoyuan Liu, Xuan Dang, Zhen Qin
-
-IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), <b>Top 3% recongintion</b>, 2023.
-</div>
-</div>
-
-<!-- IPM -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/IPM.png' alt="sym" width="300px"></div></div>
-<div class='paper-box-text' markdown="1">
-[Reducing 0s bias in video moment retrieval with a circular competence-based captioner](https://www.sciencedirect.com/science/article/pii/S0306457322002485)
-  
-Guolong Wang, **Xun Wu**, Zhaoyuan Liu, Zhen Qin
-
-Information Processing & Management (<b>IPM</b>, IF=8.6), 2022.
-</div>
-</div>
-
-<!-- ACMM22 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2022</div><img src='images/ACMMM22.png' alt="sym" width="300px"></div></div>
-<div class='paper-box-text' markdown="1">
-[Prompt-based Zero-shot Video Moment Retrieval](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004)
-  
-Guolong Wang *, **Xun Wu** *, Zhaoyuan Liu, JunChi Yan
-
-Proceedings of the 30th ACM International Conference on Multimedia (<b>ACMMM</b>), 2022.
-</div>
-</div>
--->
 
 # 🎖 Honors and Awards
 - *2023.06* Top-3% Paper recongition, ICASSP 2023.
