@@ -108,6 +108,10 @@ I have published papers at the top international AI conferences with total <a hr
 - *2017.02* Sencond Prize in Provinces, Chinese Physics Olympiad.
 
 # 📖 Educations
+- *2021.09 - present*, Tsinghua University
+- *2017.09 - 2021.06*, Central South University.
+
+<!--
 <div style="display: flex; align-items: center;">
   <img src="../images/THU.png" alt="" style="width: 50px; margin-right: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
@@ -121,6 +125,8 @@ I have published papers at the top international AI conferences with total <a hr
     <li><em>2017.09 - 2021.06</em>, School of Computer Science and Engineering, Central South University</li>
   </ul>
 </div>
+-->
+
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=q5yZ95KjsZ7AOjImFnG6K7CAzgEw1bXRYg2t7KBkpvY&cl=ffffff&w=200"></script>
 
