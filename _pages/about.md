@@ -73,17 +73,9 @@ I have published papers at the top international AI conferences with total <a hr
 
 # 📝 Publications 
 
-
+#### 🎙 Multi-modal Intelligence
 <!-- MoLE -->
-<div class="badge">ArXiv, 2023</div>
-<div class='paper-box-text' markdown="1">
-[MoLE: Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S)
-
-**Xun Wu**, Shaohan Huang, Furu Wei 
-
-ArXiv, 2023
-</div>
-</div>
+- ``ArXiv, 2023``[MoLE: Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S). **Xun Wu**, Shaohan Huang, Furu Wei. ArXiv, 2023.
 
 <!-- ICIP23 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2023</div><img src='images/ICIP23.png' alt="sym" width="300px"></div></div>
