@@ -31,19 +31,19 @@ I have published papers at the top international AI conferences with total <a hr
 - *10/2023* 1 paper was submited to WWW 2024.
 - *10/2023* 2 paper was submited to ICLR 2024.
 - *09/2023* 1 paper was submited to ICASSP 2024.
-- *07/2023* &nbsp;🎉🎉 1 [paper](https://ieeexplore.ieee.org/abstract/document/10222116) was accepted to ICIP 2023.
+- *07/2023* &nbsp;🎉 1 [paper](https://ieeexplore.ieee.org/abstract/document/10222116) was accepted to ICIP 2023.
 - *04/2023* Join [Natural Language Computing group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) of Microsoft Research Asia (MSRA) as a Research Intern.
-- *03/2023* &nbsp;🎉🎉 1 [paper](https://ieeexplore.ieee.org/abstract/document/10095231) was accepted to ICASSP 2023 (**Top 3% recongintion**).
-- *03/2022* &nbsp;🎉🎉 Obtain **2nd Place Award** at Mobile Intelligent Photography & Imaging (MIPI) Workshop for RGBW Remosaic @ **CVPR 2023**.
-- *09/2022* &nbsp;🎉🎉 1 [paper](https://www.sciencedirect.com/science/article/pii/S0306457322002485) was accepted to Information Processing & Management (<b>IPM</b>, IF=8.6).
-- *09/2022* &nbsp;🎉🎉 Obtain **Winner Award** (Subjective track) at Mobile AI (AIM) workshop for Learned Smartphone ISP Challenge @ **ECCV 2022**.
-- *06/2022* &nbsp;🎉🎉 Obtain **Winner Award** at New Trends in Image Restoration and Enhancement (NTIRE) Workshop @ **CVPR 2022**.
-- *06/2022* &nbsp;🎉🎉 1 [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004) was accepted to ACMMM 2022.
+- *03/2023* &nbsp;🎉 1 [paper](https://ieeexplore.ieee.org/abstract/document/10095231) was accepted to ICASSP 2023 (<span style="color:red">Top 3% recongintion</span>).
+- *03/2022* &nbsp;🎉 Obtain <span style="color:red">2nd Place Award</span> at Mobile Intelligent Photography & Imaging (MIPI) Workshop for RGBW Remosaic @ **CVPR 2023**.
+- *09/2022* &nbsp;🎉 1 [paper](https://www.sciencedirect.com/science/article/pii/S0306457322002485) was accepted to Information Processing & Management (<b>IPM</b>, IF=8.6).
+- *09/2022* &nbsp;🎉 Obtain <span style="color:red">Winner Award</span> (Subjective track) at Mobile AI (AIM) workshop for Learned Smartphone ISP Challenge @ **ECCV 2022**.
+- *06/2022* &nbsp;🎉 Obtain <span style="color:red">Winner Award</span> at New Trends in Image Restoration and Enhancement (NTIRE) Workshop @ **CVPR 2022**.
+- *06/2022* &nbsp;🎉 1 [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004) was accepted to ACMMM 2022.
 
 # 💻 Research Experience
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/icons8-microsoft-480.png" alt="" style="width: 100px; margin-right: 20px;"/>
+  <img src="../images/icons8-microsoft-480.png" alt="" style="width: 100px;"/>
   <ul style="list-style-type: disc; padding-left: 70px;">
     <li>Natural Language Computing Group, Microsoft Research Asia</li>
     <li><strong>Research intern</strong></li>
