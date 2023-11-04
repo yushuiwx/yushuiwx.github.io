@@ -42,28 +42,33 @@ I have published papers at the top international AI conferences with total <a hr
 
 # 💻 Research Experience
 
-
-<img src="../images/icons8-microsoft-480.png" alt="", width="150px"/>&nbsp;
-
-- Natural Language Computing Group, Microsoft Research Asia
-- **Research intern**
-- mentored by [Shaohan Huang](http://buaahsh.github.io/)
-
-<div style="display: flex; align-items: flex-start;">
-  <img src="../images/CCVL.png" alt="" style="width: 150px; margin-right: 20px;"/>
-  <div>
-    <p>- Computational Cognition, Vision, and Learning Group <a href="https://ccvl.jhu.edu/">CCVL</a>, Johns Hopkins University</p>
-    <p>- <strong>Summer intern</strong></p>
-    <p>- mentored by <a href="https://yutongbai.com/">Dr. Yutong Bai</a> and <a href="https://www.cs.jhu.edu/~ayuille/">Prof. Alan Yuille</a></p>
-  </div>
+<div style="display: flex; align-items: center;">
+  <img src="../images/icons8-microsoft-480.png" alt="" style="width: 150px; margin-right: 20px;"/>
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li>Natural Language Computing Group, Microsoft Research Asia</li>
+    <li><strong>Research intern</strong></li>
+    <li>mentored by [Shaohan Huang](http://buaahsh.github.io/)</li>
+  </ul>
 </div>
 
 
-<img src="../images/sensetime.png" alt="", width="150px"/>&nbsp;
+<div style="display: flex; align-items: center;">
+  <img src="../images/CCVL.png" alt="" style="width: 150px; margin-right: 20px;"/>
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li>Computational Cognition, Vision, and Learning Group <a href="https://ccvl.jhu.edu/">CCVL</a>, Johns Hopkins University</li>
+    <li><strong>Summer intern</strong></li>
+    <li>mentored by <a href="https://yutongbai.com/">Dr. Yutong Bai</a> and <a href="https://www.cs.jhu.edu/~ayuille/">Prof. Alan Yuille</a></li>
+  </ul>
+</div>
 
-- AI Sensing & Imaging Group, SenseTime
-- **Computer Vision Research intern**
-- mentored by Dr. Feng Zhang and [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ)
+<div style="display: flex; align-items: center;">
+  <img src="../images/sensetime.png" alt="" style="width: 150px; margin-right: 20px;"/>
+  <ul style="list-style-type: disc; padding-left: 20px;">
+    <li>AI Sensing & Imaging Group, SenseTime</li>
+    <li><strong>Computer Vision Research intern</strong></li>
+    <li>mentored by [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ) and Dr. Feng Zhang</li>
+  </ul>
+</div>
 
 
 # 📝 Publications 
