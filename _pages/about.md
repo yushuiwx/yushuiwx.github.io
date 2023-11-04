@@ -73,7 +73,7 @@ I have published papers at the top international AI conferences with total <a hr
 
 # 📝 Publications 
 
-#### 🎙 Multi-modal Intelligence
+#### 📚 Multi-modal Intelligence
 <!-- MoLE -->
 - ``ArXiv, 2023``[MoLE: Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S). **Xun Wu**, Shaohan Huang, Furu Wei. ArXiv, 2023.
 
