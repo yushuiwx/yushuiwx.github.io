@@ -44,10 +44,10 @@ I have published papers at the top international AI conferences with total <a hr
 
 <div style="display: flex; align-items: center;">
   <img src="../images/icons8-microsoft-480.png" alt="" style="width: 100px; margin-right: 20px;"/>
-  <ul style="list-style-type: disc; padding-left: 20px;">
+  <ul style="list-style-type: disc; padding-left: 70px;">
     <li>Natural Language Computing Group, Microsoft Research Asia</li>
     <li><strong>Research intern</strong></li>
-    <li>mentored by [Shaohan Huang](http://buaahsh.github.io/)</li>
+    <li>mentored by <a href="http://buaahsh.github.io/">Shaohan Huang</a></li>
   </ul>
 </div>
 
@@ -63,10 +63,10 @@ I have published papers at the top international AI conferences with total <a hr
 
 <div style="display: flex; align-items: center;">
   <img src="../images/sensetime.png" alt="" style="width: 100px; margin-right: 20px;"/>
-  <ul style="list-style-type: disc; padding-left: 20px;">
+  <ul style="list-style-type: disc; padding-left: 70px;">
     <li>AI Sensing & Imaging Group, SenseTime</li>
     <li><strong>Computer Vision Research intern</strong></li>
-    <li>mentored by [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ) and Dr. Feng Zhang</li>
+    <li>mentored by <a href="https://scholar.google.com/citations?user=Yk3lxAoAAAAJ">Yaqi Wu</a> and Dr. Feng Zhang</li>
   </ul>
 </div>
 
