@@ -43,7 +43,7 @@ I have published papers at the top international AI conferences with total <a hr
 # 💻 Research Experience
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/icons8-microsoft-480.png" alt="" style="width: 150px; margin-right: 20px;"/>
+  <img src="../images/icons8-microsoft-480.png" alt="" style="width: 100px; margin-right: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
     <li>Natural Language Computing Group, Microsoft Research Asia</li>
     <li><strong>Research intern</strong></li>
@@ -62,7 +62,7 @@ I have published papers at the top international AI conferences with total <a hr
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/sensetime.png" alt="" style="width: 150px; margin-right: 20px;"/>
+  <img src="../images/sensetime.png" alt="" style="width: 100px; margin-right: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
     <li>AI Sensing & Imaging Group, SenseTime</li>
     <li><strong>Computer Vision Research intern</strong></li>
@@ -111,14 +111,14 @@ I have published papers at the top international AI conferences with total <a hr
 <div style="display: flex; align-items: center;">
   <img src="../images/THU.png" alt="" style="width: 50px; margin-right: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
-    <li><em>2021.09 - present<\em>, School of Software, Tsinghua University</li>
+    <li><em>2021.09 - present</em>, School of Software, Tsinghua University</li>
   </ul>
 </div>
 
 <div style="display: flex; align-items: center;">
   <img src="../images/CSU.png" alt="" style="width: 50px; margin-right: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
-    <li><em>2017.09 - 2021.06<\em>, School of Computer Science and Engineering, Central South University</li>
+    <li><em>2017.09 - 2021.06</em>, School of Computer Science and Engineering, Central South University</li>
   </ul>
 </div>
 
