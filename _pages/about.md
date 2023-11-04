@@ -74,6 +74,7 @@ I have published papers at the top international AI conferences with total <a hr
 
 # 📝 Publications 
 
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -87,9 +88,10 @@ I have published papers at the top international AI conferences with total <a hr
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 <!-- MoLE -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv, 2023</div><img src='images/MoLE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv, 2023</div><img src='images/MoLE.png' alt="sym" width="200px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MoLE: Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S)
