@@ -73,10 +73,11 @@ I have published papers at the top international AI conferences with total <a hr
 
 # 📝 Publications 
 
-#### 📚 Multi-modal Intelligence
-<!-- MoLE -->
-- ``ArXiv, 2023``[MoLE: Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S). **Xun Wu**, Shaohan Huang, Furu Wei. ArXiv, 2023.
+#### Multi-modal Intelligence
+- ``ArXiv 2023`` [MoLE: Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S). **Xun Wu**, Shaohan Huang, Furu Wei. ArXiv, 2023.
+- ``ICASSP 2023`` [Instance-Aware Hierarchical Structured Policy for Prompt Learning in Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/10095231). **Xun Wu** *, Guolong Wang *, Zhaoyuan Liu, Xuan Dang, Zhen Qin. IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), <b>Top 3% recongintion</b>, 2023.
 
+<!--
 <!-- ICIP23 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2023</div><img src='images/ICIP23.png' alt="sym" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -120,6 +121,7 @@ Guolong Wang *, **Xun Wu** *, Zhaoyuan Liu, JunChi Yan
 Proceedings of the 30th ACM International Conference on Multimedia (<b>ACMMM</b>), 2022.
 </div>
 </div>
+-->
 
 # 🎖 Honors and Awards
 - *2023.06* Top-3% Paper recongition, ICASSP 2023.
