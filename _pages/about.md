@@ -40,6 +40,38 @@ I have published papers at the top international AI conferences with total <a hr
 - *06/2022* &nbsp;🎉🎉 Obtain **Winner Award** at New Trends in Image Restoration and Enhancement (NTIRE) Workshop @ **CVPR 2022**.
 - *06/2022* &nbsp;🎉🎉 1 [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004) was accepted to ACMMM 2022.
 
+# 💻 Experience
+<table class="imgtable">
+
+<tr>
+<td><img class="proj_thumb" src="../images/icons8-microsoft-480.png" alt="", width="150px"/>&nbsp;</td>
+<td>
+<p class="pub_title"><b>Natural Language Computing Group, Microsoft Research Asia</b></p>
+<p class="pub_title"><b>Research intern</b></p>
+<p class="pub_author">mentored by [Shaohan Huang](http://buaahsh.github.io/)</p> 
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="../images/CCVL.png" alt="", width="150px"/>&nbsp;</td>
+<td>
+<p class="pub_title"><b>Computational Cognition, Vision, and Learning Group [CCVL](https://ccvl.jhu.edu/), Johns Hopkins University</b></p>
+<p class="pub_title"><b>Summer intern</b></p>
+<p class="pub_author">mentored by [Dr. Yutong Bai](https://yutongbai.com/) and [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/)</p> 
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="../images/sensetime.png" alt="", width="150px"/>&nbsp;</td>
+<td>
+<p class="pub_title"><b>AI Sensing & Imaging Group, SenseTime</b></p>
+<p class="pub_title"><b>Computer Vision Research intern</b></p>
+<p class="pub_author">mentored by Dr. Feng Zhang and Yaqi Wu</p> 
+</td>
+</tr>
+
+</table>
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -70,3 +102,6 @@ I have published papers at the top international AI conferences with total <a hr
 # 📖 Educations
 - *2021.09 - present*, School of Software, Tsinghua University.
 - *2017.09 - 2021.06*, School of Computer Science and Engineering, Central South University.
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=q5yZ95KjsZ7AOjImFnG6K7CAzgEw1bXRYg2t7KBkpvY&cl=ffffff&w=200"></script>
+
