@@ -113,9 +113,14 @@ I have published papers at the top international AI conferences with total <a hr
 
 # 📖 Educations
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/THU.png' alt="sym" width="100px"></div></div>
+<div class='paper-box-text' markdown="1">
 - *2021.09 - present*, School of Software, Tsinghua University.
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CSU.png' alt="sym" width="100px"></div></div>
 - *2017.09 - 2021.06*, School of Computer Science and Engineering, Central South University.
+</div>
+</div>
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=q5yZ95KjsZ7AOjImFnG6K7CAzgEw1bXRYg2t7KBkpvY&cl=ffffff&w=200"></script>
 
