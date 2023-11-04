@@ -44,29 +44,33 @@ I have published papers at the top international AI conferences with total <a hr
 <table class="imgtable">
 
 <tr>
-<td><img class="proj_thumb" src="../images/icons8-microsoft-480.png" alt="", width="150px"/>&nbsp;</td>
 <td>
-<p class="pub_title"><b>Natural Language Computing Group, Microsoft Research Asia</b></p>
-<p class="pub_title"><b>Research intern</b></p>
-<p class="pub_author">mentored by [Shaohan Huang](http://buaahsh.github.io/)</p> 
+  <img src="../images/icons8-microsoft-480.png" alt="", width="150px"/>&nbsp;
+</td>
+<td>
+- Natural Language Computing Group, Microsoft Research Asia
+- **Research intern**
+- mentored by [Shaohan Huang](http://buaahsh.github.io/)
 </td>
 </tr>
 
 <tr>
-<td><img class="proj_thumb" src="../images/CCVL.png" alt="", width="150px"/>&nbsp;</td>
 <td>
-<p class="pub_title"><b>Computational Cognition, Vision, and Learning Group [CCVL](https://ccvl.jhu.edu/), Johns Hopkins University</b></p>
-<p class="pub_title"><b>Summer intern</b></p>
-<p class="pub_author">mentored by [Dr. Yutong Bai](https://yutongbai.com/) and [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/)</p> 
+  <img src="../images/CCVL.png" alt="", width="150px"/>&nbsp;
+</td>
+<td>
+- Computational Cognition, Vision, and Learning Group [CCVL](https://ccvl.jhu.edu/), Johns Hopkins University
+- **Summer intern**
+- mentored by [Dr. Yutong Bai](https://yutongbai.com/) and [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/)
 </td>
 </tr>
 
 <tr>
-<td><img class="proj_thumb" src="../images/sensetime.png" alt="", width="150px"/>&nbsp;</td>
+<td><img src="../images/sensetime.png" alt="", width="150px"/>&nbsp;</td>
 <td>
-<p class="pub_title"><b>AI Sensing & Imaging Group, SenseTime</b></p>
-<p class="pub_title"><b>Computer Vision Research intern</b></p>
-<p class="pub_author">mentored by Dr. Feng Zhang and Yaqi Wu</p> 
+- AI Sensing & Imaging Group, SenseTime
+- **Computer Vision Research intern**
+- mentored by Dr. Feng Zhang and [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ)
 </td>
 </tr>
 
