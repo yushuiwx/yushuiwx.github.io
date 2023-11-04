@@ -75,7 +75,9 @@ I have published papers at the top international AI conferences with total <a hr
 
 #### Multi-modal Intelligence
 - ``ArXiv 2023`` [MoLE: Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S). **Xun Wu**, Shaohan Huang, Furu Wei. ArXiv, 2023.
-- ``ICASSP 2023`` [Instance-Aware Hierarchical Structured Policy for Prompt Learning in Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/10095231). **Xun Wu** *, Guolong Wang *, Zhaoyuan Liu, Xuan Dang, Zhen Qin. IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), <b>Top 3% recongintion</b>, 2023.
+- ``ICASSP 2023`` <span style="color:red">(Top 3% recongintion)</span> [Instance-Aware Hierarchical Structured Policy for Prompt Learning in Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/10095231). **Xun Wu** *, Guolong Wang *, Zhaoyuan Liu, Xuan Dang, Zhen Qin. IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2023.
+- ``IPM`` [Reducing 0s bias in video moment retrieval with a circular competence-based captioner](https://www.sciencedirect.com/science/article/pii/S0306457322002485). Guolong Wang, **Xun Wu**, Zhaoyuan Liu, Zhen Qin. Information Processing & Management (<b>IPM</b>, IF=8.6), 2022.
+- ``ACMMM 2022`` [Prompt-based Zero-shot Video Moment Retrieval](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004). Guolong Wang *, **Xun Wu** *, Zhaoyuan Liu, JunChi Yan. Proceedings of the 30th ACM International Conference on Multimedia (<b>ACMMM</b>), 2022.
 
 <!--
 <!-- ICIP23 -->
