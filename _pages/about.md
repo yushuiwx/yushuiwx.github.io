@@ -41,40 +41,30 @@ I have published papers at the top international AI conferences with total <a hr
 - *06/2022* &nbsp;🎉🎉 1 [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004) was accepted to ACMMM 2022.
 
 # 💻 Research Experience
-<table class="imgtable">
 
-<tr>
-<td>
-  <img src="../images/icons8-microsoft-480.png" alt="", width="150px"/>&nbsp;
-</td>
-<td>
+
+<img src="../images/icons8-microsoft-480.png" alt="", width="150px"/>&nbsp;
+
 - Natural Language Computing Group, Microsoft Research Asia
 - **Research intern**
 - mentored by [Shaohan Huang](http://buaahsh.github.io/)
-</td>
-</tr>
 
-<tr>
-<td>
-  <img src="../images/CCVL.png" alt="", width="150px"/>&nbsp;
-</td>
-<td>
-- Computational Cognition, Vision, and Learning Group [CCVL](https://ccvl.jhu.edu/), Johns Hopkins University
-- **Summer intern**
-- mentored by [Dr. Yutong Bai](https://yutongbai.com/) and [Prof. Alan Yuille](https://www.cs.jhu.edu/~ayuille/)
-</td>
-</tr>
+<div style="display: flex; align-items: flex-start;">
+  <img src="../images/CCVL.png" alt="" style="width: 150px; margin-right: 20px;"/>
+  <div>
+    <p>- Computational Cognition, Vision, and Learning Group <a href="https://ccvl.jhu.edu/">CCVL</a>, Johns Hopkins University</p>
+    <p>- <strong>Summer intern</strong></p>
+    <p>- mentored by <a href="https://yutongbai.com/">Dr. Yutong Bai</a> and <a href="https://www.cs.jhu.edu/~ayuille/">Prof. Alan Yuille</a></p>
+  </div>
+</div>
 
-<tr>
-<td><img src="../images/sensetime.png" alt="", width="150px"/>&nbsp;</td>
-<td>
+
+<img src="../images/sensetime.png" alt="", width="150px"/>&nbsp;
+
 - AI Sensing & Imaging Group, SenseTime
 - **Computer Vision Research intern**
 - mentored by Dr. Feng Zhang and [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ)
-</td>
-</tr>
 
-</table>
 
 # 📝 Publications 
 
