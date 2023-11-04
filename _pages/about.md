@@ -17,14 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a final-year master student at School of Software, Tsinghua University. Before that, I received my B.S. with honors from School of Computer Science and Technology, Central South University. Currently, I am also a visiting student at [Blender Lab](http://blender.cs.illinois.edu/), University of Illinois Urbana-Champaign, working with [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html). Before, I was delighted to cooperated with [Dr. Guolong Wang](https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra), [Yutong Bai](https://yutongbai.com/), Dr. Feng Zhang, [Dr. Jimmy S. Ren](http://www.jimmyren.com/) and [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+You can find my CV here: [Curriculum Vitae](./files/cv_wuxun_tsinghua_university_2024_fall_PhD_application.pdf).
+
+My research aim to build up unified AI system capable of simultaneously processing information from multiple modalities and addressing various downstream tasks. With this goal, I have explored following topics:
+* **language-based multi-modal intelligence**: multi-modal learning (e.g., acoustic, visual, language and point clouds modalities), multi-modal retrieval and summarization, downstream adaption (zero-shot learning and cross-modal learning, parameter-efficient fine-tuning).
+* **representation learning**: unified vision model for diverse tasks (e.g., object detection, segmentation and reconstruction).
+* **low-level vision & computational photography**: mobile imaging system, efficient image reconstruction.
+
+I have published papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=H6v9t9kAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=H6v9t9kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [10/2023] 1 paper was submited to WWW 2024.
+- [10/2023] 2 paper was submited to ICLR 2024.
+- [09/2023] 1 paper was submited to ICASSP 2024.
+- [07/2023] &nbsp;🎉🎉 1 [paper](https://ieeexplore.ieee.org/abstract/document/10222116) was accepted to ICIP 2023.
+- [04/2023] Join [Natural Language Computing group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) of Microsoft Research Asia (MSRA) as a Research Intern.
+- [03/2023] &nbsp;🎉🎉 1 [paper](https://ieeexplore.ieee.org/abstract/document/10095231) was accepted to ICASSP 2023 (**Top 3% recongintion**).
+- [03/2022] &nbsp;🎉🎉 Obtain **2nd Place Award** at Mobile Intelligent Photography & Imaging (MIPI) Workshop for RGBW Remosaic @ **CVPR 2023**.
+- [09/2022] &nbsp;🎉🎉 1 [paper](https://www.sciencedirect.com/science/article/pii/S0306457322002485) was accepted to Information Processing & Management (<b>IPM</b>, IF=8.6).
+- [09/2022] &nbsp;🎉🎉 Obtain **Winner Award** (Subjective track) at Mobile AI (AIM) workshop for Learned Smartphone ISP Challenge @ **ECCV 2022**.
+- [06/2022] &nbsp;🎉🎉 Obtain **Winner Award** at New Trends in Image Restoration and Enhancement (NTIRE) Workshop @ **CVPR 2022**.
+- [06/2022] &nbsp;🎉🎉 1 [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004) was accepted to ACMMM 2022.
 
 # 📝 Publications 
 
