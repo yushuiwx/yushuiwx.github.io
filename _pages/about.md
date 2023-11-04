@@ -40,7 +40,7 @@ I have published papers at the top international AI conferences with total <a hr
 - *06/2022* &nbsp;🎉🎉 Obtain **Winner Award** at New Trends in Image Restoration and Enhancement (NTIRE) Workshop @ **CVPR 2022**.
 - *06/2022* &nbsp;🎉🎉 1 [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004) was accepted to ACMMM 2022.
 
-# 💻 Experience
+# 💻 Research Experience
 <table class="imgtable">
 
 <tr>
@@ -87,6 +87,16 @@ I have published papers at the top international AI conferences with total <a hr
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<!-- MoLE -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv, 2023</div><img src='images/MoLE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MoLE: Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S)
+
+**Xun Wu**, Shaohan Huang, Furu Wei 
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
