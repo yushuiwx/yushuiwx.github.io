@@ -91,7 +91,7 @@ I have published papers at the top international AI conferences with total <a hr
 -->
 
 <!-- MoLE -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv, 2023</div><img src='images/MoLE.png' alt="sym" width="200px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv, 2023</div><img src='images/MoLE.png' alt="sym" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MoLE: Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S)
@@ -112,7 +112,9 @@ I have published papers at the top international AI conferences with total <a hr
 - *2017.02* Sencond Prize in Provinces, Chinese Physics Olympiad.
 
 # 📖 Educations
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/THU.png' alt="sym" width="100px"></div></div>
 - *2021.09 - present*, School of Software, Tsinghua University.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/CSU.png' alt="sym" width="100px"></div></div>
 - *2017.09 - 2021.06*, School of Computer Science and Engineering, Central South University.
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=q5yZ95KjsZ7AOjImFnG6K7CAzgEw1bXRYg2t7KBkpvY&cl=ffffff&w=200"></script>
