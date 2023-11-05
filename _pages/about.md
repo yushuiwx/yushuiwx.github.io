@@ -46,7 +46,7 @@ My research aim to build up unified AI system capable of simultaneously processi
   <img src="../images/icons8-microsoft-480.png" alt="" style="width: 80px; margin-right: 20px; margin-left: 10px;"/>
   <ul style="list-style-type: disc; padding-left: 70px;">
     <li>Natural Language Computing Group, Microsoft Research Asia</li>
-    <li><strong>Research intern</strong></li>
+    <li>*2023.04 - present*, <strong>Research intern</strong></li>
     <li>mentored by <a href="http://buaahsh.github.io/">Shaohan Huang</a></li>
   </ul>
 </div>
@@ -56,7 +56,7 @@ My research aim to build up unified AI system capable of simultaneously processi
   <img src="../images/CCVL.png" alt="" style="width: 150px; margin-right: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
     <li>Computational Cognition, Vision, and Learning Group (<a href="https://ccvl.jhu.edu/">CCVL</a>), Johns Hopkins University</li>
-    <li><strong>Summer intern</strong></li>
+    <li>*2023.06 - 2023.09*, <strong>Summer intern</strong></li>
     <li>mentored by <a href="https://yutongbai.com/">Dr. Yutong Bai</a> and <a href="https://www.cs.jhu.edu/~ayuille/">Prof. Alan Yuille</a></li>
   </ul>
 </div>
@@ -65,7 +65,7 @@ My research aim to build up unified AI system capable of simultaneously processi
   <img src="../images/sensetime.png" alt="" style="width: 80px; margin-right: 20px; margin-left: 10px;"/>
   <ul style="list-style-type: disc; padding-left: 70px;">
     <li>AI Sensing & Imaging Group, SenseTime</li>
-    <li><strong>Computer Vision Research intern</strong></li>
+    <li>*2021.04 - 2023.04*, <strong>Computer Vision Research intern</strong></li>
     <li>mentored by <a href="https://scholar.google.com/citations?user=Yk3lxAoAAAAJ">Yaqi Wu</a> and Dr. Feng Zhang</li>
   </ul>
 </div>
@@ -87,12 +87,13 @@ My research aim to build up unified AI system capable of simultaneously processi
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-weight: bold; font-size: 12px;">``ECCVW 2022``</span> [Residual Feature Distillation Channel Spatial Attention Network for ISP on Smartphone](https://link.springer.com/chapter/10.1007/978-3-031-25063-7_40). Jiesi Zheng, Zhihao Fan, **Xun Wu**, Yaqi Wu, Feng Zhang. European Conference on Computer Vision - Advances in Image Manipulation workshop and challenges (<b>CVPRW</b>), 2022.
 
 # 💪 Competition
-- New Trends in Image Restoration and Enhancement (*NTIRE*) Workshop on Multi-Spectral Filter Array Demosaicing @ **CVPR2022**, <span style="color:red">Winner Award</span> (157 teams)
+- New Trends in Image Restoration and Enhancement (**NTIRE**) Workshop on Multi-Spectral Filter Array Demosaicing @ **CVPR2022**, <span style="color:red">Winner Award</span> (**157 teams**)
 - Mobile AI (**AIM**) workshop for Learned Smartphone ISP Challenge @ **ECCV2022**, <span style="color:red">Winner Award</span>
-- Mobile Intelligent Photography & Imaging (**MIPI**) Workshop for RGBW Remosaic @ **ECCV2022**, <span style="color:red">2nd Place Award</span> (81 teams)
+- Mobile Intelligent Photography & Imaging (**MIPI**) Workshop for RGBW Remosaic @ **ECCV2022**, <span style="color:red">2nd Place Award</span> (**81 teams**)
 - Mobile Intelligent Photography & Imaging (**MIPI**) Workshop for Quad Bayer Remosaic @ **ECCV2022**, <span style="color:red">5nd Place</span>
 
-# 🎖 Honors and Awards
+# ✨ Honors and Awards
+- *2023.11* Ubiquant Scholarship, Tsinghua University.
 - *2023.06* Top-3% Paper recongition, ICASSP 2023.
 - *2021.10 - 2023.10* Outstanding Student Award & Second-class Scholarship (**×3**), Tsinghua University.
 - *2021.06* Province-level Outstanding Graduate Student Award (**Top 5 in 242 students**), Central South University.
