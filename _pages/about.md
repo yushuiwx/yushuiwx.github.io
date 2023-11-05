@@ -55,7 +55,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 <div style="display: flex; align-items: center;">
   <img src="../images/CCVL.png" alt="" style="width: 150px; margin-right: 20px; margin-left: 20px; "/>
-  <ul style="list-style-type: disc; padding-left: 20px;">
+  <ul style="list-style-type: disc; padding-left: 0px;">
     <li style="list-style-type: none;">Computational Cognition, Vision, and Learning Group (<a href="https://ccvl.jhu.edu/">CCVL</a>), Johns Hopkins University</li>
     <li style="list-style-type: none;"><em>2023.06 - 2023.09</em>, <strong>Summer intern</strong></li>
     <li style="list-style-type: none;">mentored by <a href="https://yutongbai.com/">Dr. Yutong Bai</a> and <a href="https://www.cs.jhu.edu/~ayuille/">Prof. Alan Yuille</a></li>
