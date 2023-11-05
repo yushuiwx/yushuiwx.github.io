@@ -24,7 +24,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 * **representation learning**: unified vision model for diverse tasks (e.g., object detection, segmentation and reconstruction).
 * **low-level vision & computational photography**: mobile imaging system, efficient image reconstruction.
 
-I have published papers <a href='https://scholar.google.com/citations?user=H6v9t9kAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2yushuiwx%2yushuiwx.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences.
+<!-- I have published papers <a href='https://scholar.google.com/citations?user=H6v9t9kAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2yushuiwx%2yushuiwx.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences. -->
 
 
 # 🔥 News
@@ -43,7 +43,7 @@ I have published papers <a href='https://scholar.google.com/citations?user=H6v9t
 # 💻 Research Experience
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/icons8-microsoft-480.png" alt="" style="width: 100px; margin-right: 10px; margin-left: 10px;"/>
+  <img src="../images/icons8-microsoft-480.png" alt="" style="width: 80px; margin-right: 20px; margin-left: 10px;"/>
   <ul style="list-style-type: disc; padding-left: 70px;">
     <li>Natural Language Computing Group, Microsoft Research Asia</li>
     <li><strong>Research intern</strong></li>
@@ -55,14 +55,14 @@ I have published papers <a href='https://scholar.google.com/citations?user=H6v9t
 <div style="display: flex; align-items: center;">
   <img src="../images/CCVL.png" alt="" style="width: 150px; margin-right: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
-    <li>Computational Cognition, Vision, and Learning Group <a href="https://ccvl.jhu.edu/">CCVL</a>, Johns Hopkins University</li>
+    <li>Computational Cognition, Vision, and Learning Group (<a href="https://ccvl.jhu.edu/">CCVL</a>), Johns Hopkins University</li>
     <li><strong>Summer intern</strong></li>
     <li>mentored by <a href="https://yutongbai.com/">Dr. Yutong Bai</a> and <a href="https://www.cs.jhu.edu/~ayuille/">Prof. Alan Yuille</a></li>
   </ul>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/sensetime.png" alt="" style="width: 100px; margin-right: 20px;"/>
+  <img src="../images/sensetime.png" alt="" style="width: 80px; margin-right: 20px; margin-left: 10px;"/>
   <ul style="list-style-type: disc; padding-left: 70px;">
     <li>AI Sensing & Imaging Group, SenseTime</li>
     <li><strong>Computer Vision Research intern</strong></li>
