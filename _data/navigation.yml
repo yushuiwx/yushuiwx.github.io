@@ -12,6 +12,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Competition"
+    url: "/#-competition"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
