@@ -87,10 +87,10 @@ My research aim to build up unified AI system capable of simultaneously processi
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-weight: bold; font-size: 12px;">``ECCVW 2022``</span> [Residual Feature Distillation Channel Spatial Attention Network for ISP on Smartphone](https://link.springer.com/chapter/10.1007/978-3-031-25063-7_40). Jiesi Zheng, Zhihao Fan, **Xun Wu**, Yaqi Wu, Feng Zhang. European Conference on Computer Vision - Advances in Image Manipulation workshop and challenges (<b>CVPRW</b>), 2022.
 
 # 💪 Competition
-- New Trends in Image Restoration and Enhancement (NTIRE) Workshop @ CVPR2022, <span style="color:red">Winner Award</span>
-- Mobile AI (AIM) workshop for Learned Smartphone ISP Challenge @ ECCV2022, <span style="color:red">Winner Award</span>
-- Mobile AI (AIM) workshop for Learned Smartphone ISP Challenge @ ECCV2022, <span style="color:red">2nd Place Award</span>
-- Mobile Intelligent Photography & Imaging (MIPI) Workshop for Quad Bayer Remosaic @ ECCV2022, <span style="color:red">5nd Place</span>
+- New Trends in Image Restoration and Enhancement (*NTIRE*) Workshop on Multi-Spectral Filter Array Demosaicing @ **CVPR2022**, <span style="color:red">Winner Award</span> (157 teams)
+- Mobile AI (**AIM**) workshop for Learned Smartphone ISP Challenge @ **ECCV2022**, <span style="color:red">Winner Award</span>
+- Mobile Intelligent Photography & Imaging (**MIPI**) Workshop for RGBW Remosaic @ **ECCV2022**, <span style="color:red">2nd Place Award</span> (81 teams)
+- Mobile Intelligent Photography & Imaging (**MIPI**) Workshop for Quad Bayer Remosaic @ **ECCV2022**, <span style="color:red">5nd Place</span>
 
 # 🎖 Honors and Awards
 - *2023.06* Top-3% Paper recongition, ICASSP 2023.
