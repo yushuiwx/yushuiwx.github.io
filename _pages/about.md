@@ -41,12 +41,12 @@ My research aim to build up unified AI system capable of simultaneously processi
 - *06/2022* &nbsp;🎉 1 [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004) was accepted to ACMMM 2022.
 
 # 💻 Research Experience
-
+<ul style="list-style-type: none;">
 <div style="display: flex; align-items: center;">
-  <img src="../images/icons8-microsoft-480.png" alt="" style="width: 80px; margin-right: 20px; margin-left: 10px;"/>
+  <img src="../images/icons8-microsoft-480.png" alt="" style="width: 80px; margin-right: 10px; margin-left: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 70px;">
     <li>Natural Language Computing Group, Microsoft Research Asia</li>
-    <li>*2023.04 - present*, <strong>Research intern</strong></li>
+    <li><em>2023.04 - present</em>, <strong>Research intern</strong></li>
     <li>mentored by <a href="http://buaahsh.github.io/">Shaohan Huang</a></li>
   </ul>
 </div>
@@ -56,16 +56,16 @@ My research aim to build up unified AI system capable of simultaneously processi
   <img src="../images/CCVL.png" alt="" style="width: 150px; margin-right: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
     <li>Computational Cognition, Vision, and Learning Group (<a href="https://ccvl.jhu.edu/">CCVL</a>), Johns Hopkins University</li>
-    <li>*2023.06 - 2023.09*, <strong>Summer intern</strong></li>
+    <li><em>2023.06 - 2023.09</em>, <strong>Summer intern</strong></li>
     <li>mentored by <a href="https://yutongbai.com/">Dr. Yutong Bai</a> and <a href="https://www.cs.jhu.edu/~ayuille/">Prof. Alan Yuille</a></li>
   </ul>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/sensetime.png" alt="" style="width: 80px; margin-right: 20px; margin-left: 10px;"/>
+  <img src="../images/sensetime.png" alt="" style="width: 80px; margin-right: 10px; margin-left: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 70px;">
     <li>AI Sensing & Imaging Group, SenseTime</li>
-    <li>*2021.04 - 2023.04*, <strong>Computer Vision Research intern</strong></li>
+    <li><em>2021.04 - 2023.04</em>, <strong>Computer Vision Research intern</strong></li>
     <li>mentored by <a href="https://scholar.google.com/citations?user=Yk3lxAoAAAAJ">Yaqi Wu</a> and Dr. Feng Zhang</li>
   </ul>
 </div>
@@ -97,7 +97,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 - *2023.06* Top-3% Paper recongition, ICASSP 2023.
 - *2021.10 - 2023.10* Outstanding Student Award & Second-class Scholarship (**×3**), Tsinghua University.
 - *2021.06* Province-level Outstanding Graduate Student Award (**Top 5 in 242 students**), Central South University.
-- *2020.10* Wanxing Technology Innovation Scholarship (**Top 3 in 242 students**), Central South University.
+- *2020.10* Wanxing Technology Innovation Scholarship (**Top 10 in 242 students**), Central South University.
 - *2017.10 - 2021.10* Outstanding Student Award & Second-class Scholarship (**×3**), Central South University.
 - *2017.02* Sencond Prize in Provinces, Chinese Physics Olympiad.
 
