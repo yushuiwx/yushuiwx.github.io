@@ -41,13 +41,12 @@ My research aim to build up unified AI system capable of simultaneously processi
 - *06/2022* &nbsp;🎉 1 [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004) was accepted to ACMMM 2022.
 
 # 💻 Research Experience
-<ul style="list-style-type: none;">
 <div style="display: flex; align-items: center;">
   <img src="../images/icons8-microsoft-480.png" alt="" style="width: 80px; margin-right: 10px; margin-left: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 70px;">
-    <li>Natural Language Computing Group, Microsoft Research Asia</li>
-    <li><em>2023.04 - present</em>, <strong>Research intern</strong></li>
-    <li>mentored by <a href="http://buaahsh.github.io/">Shaohan Huang</a></li>
+    <li style="list-style-type: none;">Natural Language Computing Group, Microsoft Research Asia</li>
+    <li style="list-style-type: none;"><em>2023.04 - present</em>, <strong>Research intern</strong></li>
+    <li style="list-style-type: none;">mentored by <a href="http://buaahsh.github.io/">Shaohan Huang</a></li>
   </ul>
 </div>
 
@@ -55,18 +54,18 @@ My research aim to build up unified AI system capable of simultaneously processi
 <div style="display: flex; align-items: center;">
   <img src="../images/CCVL.png" alt="" style="width: 150px; margin-right: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
-    <li>Computational Cognition, Vision, and Learning Group (<a href="https://ccvl.jhu.edu/">CCVL</a>), Johns Hopkins University</li>
-    <li><em>2023.06 - 2023.09</em>, <strong>Summer intern</strong></li>
-    <li>mentored by <a href="https://yutongbai.com/">Dr. Yutong Bai</a> and <a href="https://www.cs.jhu.edu/~ayuille/">Prof. Alan Yuille</a></li>
+    <li style="list-style-type: none;">Computational Cognition, Vision, and Learning Group (<a href="https://ccvl.jhu.edu/">CCVL</a>), Johns Hopkins University</li>
+    <li style="list-style-type: none;"><em>2023.06 - 2023.09</em>, <strong>Summer intern</strong></li>
+    <li style="list-style-type: none;">mentored by <a href="https://yutongbai.com/">Dr. Yutong Bai</a> and <a href="https://www.cs.jhu.edu/~ayuille/">Prof. Alan Yuille</a></li>
   </ul>
 </div>
 
 <div style="display: flex; align-items: center;">
   <img src="../images/sensetime.png" alt="" style="width: 80px; margin-right: 10px; margin-left: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 70px;">
-    <li>AI Sensing & Imaging Group, SenseTime</li>
-    <li><em>2021.04 - 2023.04</em>, <strong>Computer Vision Research intern</strong></li>
-    <li>mentored by <a href="https://scholar.google.com/citations?user=Yk3lxAoAAAAJ">Yaqi Wu</a> and Dr. Feng Zhang</li>
+    <li style="list-style-type: none;">AI Sensing & Imaging Group, SenseTime</li>
+    <li style="list-style-type: none;"><em>2021.04 - 2023.04</em>, <strong>Computer Vision Research intern</strong></li>
+    <li style="list-style-type: none;">mentored by <a href="https://scholar.google.com/citations?user=Yk3lxAoAAAAJ">Yaqi Wu</a> and Dr. Feng Zhang</li>
   </ul>
 </div>
 
