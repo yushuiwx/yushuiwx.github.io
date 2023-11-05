@@ -34,10 +34,10 @@ My research aim to build up unified AI system capable of simultaneously processi
 - *07/2023* &nbsp;🎉 1 [paper](https://ieeexplore.ieee.org/abstract/document/10222116) was accepted to ICIP 2023.
 - *04/2023* Join [Natural Language Computing group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) of Microsoft Research Asia (MSRA) as a Research Intern.
 - *03/2023* &nbsp;🎉 1 [paper](https://ieeexplore.ieee.org/abstract/document/10095231) was accepted to ICASSP 2023 (<span style="color:red">Top 3% recongintion</span>).
-- *03/2022* &nbsp;🎉 Obtain <span style="color:red">2nd Place Award</span> at Mobile Intelligent Photography & Imaging (MIPI) Workshop for RGBW Remosaic @ **CVPR 2023**.
+- *03/2022* &nbsp;👏 Obtain <span style="color:red">2nd Place Award</span> at Mobile Intelligent Photography & Imaging (MIPI) Workshop for RGBW Remosaic @ **CVPR 2023**.
 - *09/2022* &nbsp;🎉 1 [paper](https://www.sciencedirect.com/science/article/pii/S0306457322002485) was accepted to Information Processing & Management (<b>IPM</b>, IF=8.6).
-- *09/2022* &nbsp;🎉 Obtain <span style="color:red">Winner Award</span> (Subjective track) at Mobile AI (AIM) workshop for Learned Smartphone ISP Challenge @ **ECCV 2022**.
-- *06/2022* &nbsp;🎉 Obtain <span style="color:red">Winner Award</span> at New Trends in Image Restoration and Enhancement (NTIRE) Workshop @ **CVPR 2022**.
+- *09/2022* &nbsp;👏 Obtain <span style="color:red">Winner Award</span> (Subjective track) at Mobile AI (AIM) workshop for Learned Smartphone ISP Challenge @ **ECCV 2022**.
+- *06/2022* &nbsp;👏 Obtain <span style="color:red">Winner Award</span> at New Trends in Image Restoration and Enhancement (NTIRE) Workshop @ **CVPR 2022**.
 - *06/2022* &nbsp;🎉 1 [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004) was accepted to ACMMM 2022.
 
 # 💻 Research Experience
@@ -79,8 +79,12 @@ My research aim to build up unified AI system capable of simultaneously processi
 - ``IPM`` [Reducing 0s bias in video moment retrieval with a circular competence-based captioner](https://www.sciencedirect.com/science/article/pii/S0306457322002485). Guolong Wang, **Xun Wu**, Zhaoyuan Liu, Zhen Qin. Information Processing & Management (<b>IPM</b>, IF=8.6), 2022.
 - ``ACMMM 2022`` [Prompt-based Zero-shot Video Moment Retrieval](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004). Guolong Wang *, **Xun Wu** *, Zhaoyuan Liu, JunChi Yan. Proceedings of the 30th ACM International Conference on Multimedia (<b>ACMMM</b>), 2022.
 
-#### Low-level Vision
+#### Imaging & Low-level Vision
+
 - ``ICIP 2023`` [Joint Demosaicing and Denoising with Gradient Guidance in Quad Bayer CFA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10222116). **Xun Wu** *, Yaqi Wu *, Jiawei Zhang, Feng Zhang, Jimmy S. Ren. IEEE International Conference on Image Processing (<b>ICIP</b>), 2023.
+- ``CVPRW 2023`` [OTST: A Two-Phase Framework for Joint Denoising and Remosaicing in RGBW CFA](https://openaccess.thecvf.com/content/CVPR2023W/MIPI/papers/Fan_OTST_A_Two-Phase_Framework_for_Joint_Denoising_and_Remosaicing_in_CVPRW_2023_paper.pdf). Zhihao Fan *, **Xun Wu** *, Fanqing Meng, Yaqi Wu, Feng Zhang. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition - 2nd Mobile Intelligent Photography & Imaging Workshop (<b>CVPRW</b>), 2022.
+- ``ECCVW 2022`` [Learning to Joint Remosaic and Denoise in Quad Bayer CFA via Universal Multi-scale Channel Attention Network](https://link.springer.com/chapter/10.1007/978-3-031-25072-9_10). **Xun Wu**, Zhihao Fan, Jiesi Zheng, Yaqi Wu, Feng Zhang. European Conference on Computer Vision - 1nd Mobile Intelligent Photography & Imaging Workshop (<b>ECCVW</b>), 2022.
+- ``ECCVW 2022`` [Residual Feature Distillation Channel Spatial Attention Network for ISP on Smartphone](https://link.springer.com/chapter/10.1007/978-3-031-25063-7_40). Jiesi Zheng, Zhihao Fan, **Xun Wu**, Yaqi Wu, Feng Zhang. European Conference on Computer Vision - Advances in Image Manipulation workshop and challenges (<b>CVPRW</b>), 2022.
 
 
 # 🎖 Honors and Awards
@@ -90,6 +94,10 @@ My research aim to build up unified AI system capable of simultaneously processi
 - *2020.10* Wanxing Technology Innovation Scholarship (**Top 3 in 242 students**), Central South University.
 - *2017.10 - 2021.10* Outstanding Student Award & Second-class Scholarship (**×3**), Central South University.
 - *2017.02* Sencond Prize in Provinces, Chinese Physics Olympiad.
+
+
+# 💪 Competition
+
 
 # 📖 Educations
 - *2021.09 - present*, Tsinghua University
