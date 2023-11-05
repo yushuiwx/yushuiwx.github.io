@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year master student at School of Software, Tsinghua University. Previously, I received my B.S. with honors from School of Computer Science and Engineering, Central South University. Currently, I am also a visiting student at [Blender Lab](http://blender.cs.illinois.edu/), University of Illinois Urbana-Champaign, working with [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html). Before, I was delighted to cooperated with [Dr. Guolong Wang](https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra), <a href="http://buaahsh.github.io/">Dr. Shaohan Huang</a>, [Yutong Bai](https://yutongbai.com/), Dr. Feng Zhang, [Dr. Jimmy S. Ren](http://www.jimmyren.com/) and [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ). 
+I am currently a final-year master student at School of Software, Tsinghua University. Previously, I received my B.S. with honors from School of Computer Science and Engineering, Central South University. Currently, I am also a visiting student at [Blender Lab](http://blender.cs.illinois.edu/), University of Illinois Urbana-Champaign, working with [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html). Before, I was delighted to cooperated with <a href="http://buaahsh.github.io/">Dr. Shaohan Huang</a>, [Yutong Bai](https://yutongbai.com/), [Dr. Guolong Wang](https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra), Dr. Feng Zhang, [Dr. Jimmy S. Ren](http://www.jimmyren.com/) and [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ). 
 
 <!-- You can find my CV here: [Curriculum Vitae](./files/cv_wuxun_tsinghua_university_2024_fall_PhD_application.pdf).-->
 
