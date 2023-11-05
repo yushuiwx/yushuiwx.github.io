@@ -104,7 +104,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 - *2017.02* Sencond Prize in Provinces, Chinese Physics Olympiad.
 
 
-# 📖 Educations
+# 🎓 Educations
 - *2021.09 - present*, Tsinghua University
 - *2017.09 - 2021.06*, Central South University.
 
@@ -124,7 +124,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 </div>
 -->
 
-# Miscellaneous
+# :octocat: Miscellaneous
 - 🏀 I am a big fan of basketball. I've been in the THU SS basketball team. Back to my undergrad, I was a member of the CSU SCSE basketball team, where we won the 4nd Place of the 2018 CSU Cup basketball tournament.
 - 😉 I am very interested in painting as well as traditional Chinese calligraphy.
 
