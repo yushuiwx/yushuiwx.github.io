@@ -71,7 +71,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 </div>
 
 
-# 📝 Publications 
+# 📃 Publications 
 
 #### &nbsp;&nbsp; Multi-modal Intelligence
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ArXiv 2023``</span> [MoLE: Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S). **Xun Wu**, Shaohan Huang, Furu Wei. ArXiv, 2023.
