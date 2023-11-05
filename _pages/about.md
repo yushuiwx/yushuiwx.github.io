@@ -45,7 +45,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 # 💻 Research Experience
 <div style="display: flex; align-items: center;">
   <img src="../images/icons8-microsoft-480.png" alt="" style="width: 80px; margin-right: 60px; margin-left: 20px;"/>
-  <ul style="list-style-type: disc; padding-left: 40px;">
+  <ul style="list-style-type: disc; padding-left: 20px;">
     <li style="list-style-type: none;">Natural Language Computing Group (<a href="[https://ccvl.jhu.edu/](https://www.microsoft.com/en-us/research/group/natural-language-computing/)">NLC</a>), Microsoft Research Asia</li>
     <li style="list-style-type: none;"><em>2023.04 - present</em>, <strong>Research intern</strong></li>
     <li style="list-style-type: none;">mentored by <a href="http://buaahsh.github.io/">Shaohan Huang</a></li>
@@ -53,8 +53,8 @@ My research aim to build up unified AI system capable of simultaneously processi
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/CCVL.png" alt="" style="width: 150px; margin-right: 20px; margin-left: 20px; "/>
-  <ul style="list-style-type: disc; padding-left: 10px;">
+  <img src="../images/CCVL.png" alt="" style="width: 150px; margin-right: 10px; margin-left: 20px; "/>
+  <ul style="list-style-type: disc; padding-left: 0px;">
     <li style="list-style-type: none;">Computational Cognition, Vision, and Learning Group (<a href="https://ccvl.jhu.edu/">CCVL</a>), Johns Hopkins University</li>
     <li style="list-style-type: none;"><em>2023.06 - 2023.09</em>, <strong>Summer intern</strong></li>
     <li style="list-style-type: none;">mentored by <a href="https://yutongbai.com/">Dr. Yutong Bai</a> and <a href="https://www.cs.jhu.edu/~ayuille/">Prof. Alan Yuille</a></li>
@@ -63,7 +63,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 <div style="display: flex; align-items: center;">
   <img src="../images/sensetime.png" alt="" style="width: 80px; margin-right: 60px; margin-left: 20px; "/>
-  <ul style="list-style-type: disc; padding-left: 40px;">
+  <ul style="list-style-type: disc; padding-left: 20px;">
     <li style="list-style-type: none;">AI Sensing & Imaging Group, SenseTime</li>
     <li style="list-style-type: none;"><em>2021.04 - 2023.04</em>, <strong>Computer Vision Research intern</strong></li>
     <li style="list-style-type: none;">mentored by <a href="https://scholar.google.com/citations?user=Yk3lxAoAAAAJ">Yaqi Wu</a> and Dr. Feng Zhang</li>
