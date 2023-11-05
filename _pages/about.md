@@ -44,7 +44,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 # 💻 Research Experience
 <div style="display: flex; align-items: center;">
-  <img src="../images/icons8-microsoft-480.png" alt="" style="width: 80px; margin-right: 60px; margin-left: 20px;"/>
+  <img src="../images/icons8-microsoft-480.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
     <li style="list-style-type: none;">Natural Language Computing Group (<a href="[https://ccvl.jhu.edu/](https://www.microsoft.com/en-us/research/group/natural-language-computing/)">NLC</a>), Microsoft Research Asia</li>
     <li style="list-style-type: none;"><em>2023.04 - present</em>, <strong>Research intern</strong></li>
@@ -62,7 +62,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/sensetime.png" alt="" style="width: 80px; margin-right: 60px; margin-left: 20px; "/>
+  <img src="../images/sensetime.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px; "/>
   <ul style="list-style-type: disc; padding-left: 20px;">
     <li style="list-style-type: none;">AI Sensing & Imaging Group, SenseTime</li>
     <li style="list-style-type: none;"><em>2021.04 - 2023.04</em>, <strong>Computer Vision Research intern</strong></li>
