@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year master student at School of Software, Tsinghua University. Before that, I received my B.S. with honors from School of Computer Science and Engineering, Central South University. Currently, I am also a visiting student at [Blender Lab](http://blender.cs.illinois.edu/), University of Illinois Urbana-Champaign, working with [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html). Before, I was delighted to cooperated with [Dr. Guolong Wang](https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra), [Yutong Bai](https://yutongbai.com/), Dr. Feng Zhang, [Dr. Jimmy S. Ren](http://www.jimmyren.com/) and [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ). You can find my CV here: [Curriculum Vitae](./files/cv_wuxun_tsinghua_university_2024_fall_PhD_application.pdf).
+I am currently a final-year master student at School of Software, Tsinghua University. Previously, I received my B.S. with honors from School of Computer Science and Engineering, Central South University. Currently, I am also a visiting student at [Blender Lab](http://blender.cs.illinois.edu/), University of Illinois Urbana-Champaign, working with [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji.html). Before, I was delighted to cooperated with [Dr. Guolong Wang](https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra), [Yutong Bai](https://yutongbai.com/), Dr. Feng Zhang, [Dr. Jimmy S. Ren](http://www.jimmyren.com/) and [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ). You can find my CV here: [Curriculum Vitae](./files/cv_wuxun_tsinghua_university_2024_fall_PhD_application.pdf).
 
 My research aim to build up unified AI system capable of simultaneously processing information from multiple modalities and addressing various downstream tasks. With this goal, I have explored following topics:
 * **language-based multi-modal intelligence**: multi-modal learning (e.g., acoustic, visual, language and point clouds modalities), multi-modal retrieval and summarization, downstream adaption (zero-shot learning and cross-modal learning, parameter-efficient fine-tuning).
 * **representation learning**: unified vision model for diverse tasks (e.g., object detection, segmentation and reconstruction).
 * **low-level vision & computational photography**: mobile imaging system, efficient image reconstruction.
 
-I have published papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=H6v9t9kAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=H6v9t9kAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published papers <a href='https://scholar.google.com/citations?user=H6v9t9kAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2yushuiwx%2yushuiwx.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences.
 
 
 # 🔥 News
