@@ -72,13 +72,13 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 # 📝 Publications 
 
-#### Multi-modal Intelligence
+####  Multi-modal Intelligence
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-weight: bold; font-size: 12px;">``ArXiv 2023``</span> [MoLE: Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S). **Xun Wu**, Shaohan Huang, Furu Wei. ArXiv, 2023.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-weight: bold; font-size: 12px;">``ICASSP 2023``</span> [Instance-Aware Hierarchical Structured Policy for Prompt Learning in Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/10095231). **Xun Wu** *, Guolong Wang *, Zhaoyuan Liu, Xuan Dang, Zhen Qin. IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2023. <span style="color:red">(Top 3% recongintion)</span>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-weight: bold; font-size: 12px;">``IPM``</span> [Reducing 0s bias in video moment retrieval with a circular competence-based captioner](https://www.sciencedirect.com/science/article/pii/S0306457322002485). Guolong Wang, **Xun Wu**, Zhaoyuan Liu, Zhen Qin. Information Processing & Management (<b>IPM</b>, IF=8.6), 2022.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-weight: bold; font-size: 12px;">``ACMMM 2022``</span> [Prompt-based Zero-shot Video Moment Retrieval](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004). Guolong Wang *, **Xun Wu** *, Zhaoyuan Liu, JunChi Yan. Proceedings of the 30th ACM International Conference on Multimedia (<b>ACMMM</b>), 2022.
 
-#### Imaging & Low-level Vision
+####  Imaging & Low-level Vision
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-weight: bold; font-size: 12px;">``ICIP 2023``</span> [Joint Demosaicing and Denoising with Gradient Guidance in Quad Bayer CFA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10222116). **Xun Wu** *, Yaqi Wu *, Jiawei Zhang, Feng Zhang, Jimmy S. Ren. IEEE International Conference on Image Processing (<b>ICIP</b>), 2023.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-weight: bold; font-size: 12px;">``CVPRW 2023``</span> [OTST: A Two-Phase Framework for Joint Denoising and Remosaicing in RGBW CFA](https://openaccess.thecvf.com/content/CVPR2023W/MIPI/papers/Fan_OTST_A_Two-Phase_Framework_for_Joint_Denoising_and_Remosaicing_in_CVPRW_2023_paper.pdf). Zhihao Fan *, **Xun Wu** *, Fanqing Meng, Yaqi Wu, Feng Zhang. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition - 2nd Mobile Intelligent Photography & Imaging Workshop (<b>CVPRW</b>), 2022.
