@@ -98,6 +98,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 - *2023.06* Top-3% Paper recongition, ICASSP 2023.
 - *2021.10 - 2023.10* Outstanding Student Award & Second-class Scholarship (**×3**), Tsinghua University.
 - *2021.06* Province-level Outstanding Graduate Student Award (**Top 5 in 242 students**), Central South University.
+- *2021.06* Outstanding student paper award, Central South University.
 - *2020.10* Wanxing Technology Innovation Scholarship (**Top 10 in 242 students**), Central South University.
 - *2017.10 - 2021.10* Outstanding Student Award & Second-class Scholarship (**×3**), Central South University.
 - *2017.02* Sencond Prize in Provinces, Chinese Physics Olympiad.
