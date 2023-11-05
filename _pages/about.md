@@ -29,7 +29,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 # 🔥 News
 - *10/2023* 1 paper was submited to WWW 2024.
-- *10/2023* 2 paper was submited to ICLR 2024.
+- *10/2023* 1 paper was submited to ICLR 2024.
 - *09/2023* 1 paper was submited to ICASSP 2024.
 - *07/2023* &nbsp;🎉 1 [paper](https://ieeexplore.ieee.org/abstract/document/10222116) was accepted to ICIP 2023.
 - *04/2023* Join [Natural Language Computing group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) of Microsoft Research Asia (MSRA) as a Research Intern.
@@ -52,7 +52,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 
 <div style="display: flex; align-items: center;">
-  <img src="../images/CCVL.png" alt="" style="width: 150px; margin-right: 20px;"/>
+  <img src="../images/CCVL.png" alt="" style="width: 150px; margin-right: 20px; margin-left: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
     <li style="list-style-type: none;">Computational Cognition, Vision, and Learning Group (<a href="https://ccvl.jhu.edu/">CCVL</a>), Johns Hopkins University</li>
     <li style="list-style-type: none;"><em>2023.06 - 2023.09</em>, <strong>Summer intern</strong></li>
