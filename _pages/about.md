@@ -30,7 +30,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 
 # 🔥 News
-- *11/2023* 1 paper was submited towas accepted to Information Sciences.
+- *11/2023* 1 paper was accepted to Information Sciences.
 - *10/2023* 1 paper was submited to WWW 2024.
 - *10/2023* 1 paper was submited to ICLR 2024.
 - *09/2023* 1 paper was submited to ICASSP 2024.
