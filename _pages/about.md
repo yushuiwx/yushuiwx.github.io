@@ -22,6 +22,7 @@ I am currently a final-year master student at School of Software, Tsinghua Unive
 <!-- You can find my CV here: [Curriculum Vitae](./files/cv_wuxun_tsinghua_university_2024_fall_PhD_application.pdf).-->
 
 My research aim to build up unified AI system capable of simultaneously processing information from multiple modalities and addressing various downstream tasks. With this goal, I have explored following topics:
+* **alignment, debiasing and uncertainty calibration**: alignment for large language models (LLMs) and diffusion models, RLAIF, LLMs uncertainty confidence calibration.
 * **language-based multi-modal intelligence**: multi-modal learning (acoustic, vision, language and point clouds modalities, etc.), multi-modal retrieval and summarization, downstream adaption (zero-shot learning, parameter-efficient fine-tuning), superalignment, confidence calibration methods and LLM hallucination.
 * **visual representation learning**: unified vision model for diverse tasks (object detection, segmentation and reconstruction, etc.)
 
