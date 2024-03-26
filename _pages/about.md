@@ -29,20 +29,20 @@ My research aim to build up unified AI system capable of simultaneously processi
 <!-- I have published papers <a href='https://scholar.google.com/citations?user=H6v9t9kAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2yushuiwx%2yushuiwx.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences. -->
 
 
-# 🔥 News
-- *01/2024* &nbsp;🎉 1 paper was accepted to ICLR2024.
-- *12/2023* &nbsp;🎉 1 paper was accepted to ICASSP2024.
-- *11/2023* &nbsp;🎉 1 paper was accepted to Information Sciences.
-- *07/2023* &nbsp;🎉 1 [paper](https://ieeexplore.ieee.org/abstract/document/10222116) was accepted to ICIP 2023.
+# News
+- *01/2024* &nbsp; 1 paper was accepted to ICLR2024.
+- *12/2023* &nbsp; 1 paper was accepted to ICASSP2024.
+- *11/2023* &nbsp; 1 paper was accepted to Information Sciences.
+- *07/2023* &nbsp; 1 [paper](https://ieeexplore.ieee.org/abstract/document/10222116) was accepted to ICIP 2023.
 - *04/2023* &nbsp; Join [Natural Language Computing group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) of Microsoft Research Asia (MSRA) as a Research Intern.
-- *03/2023* &nbsp;🎉 1 [paper](https://ieeexplore.ieee.org/abstract/document/10095231) was accepted to ICASSP 2023 (<span style="color:red">Top 3% recongintion</span>).
-- *03/2022* &nbsp;👏 Obtain <span style="color:red">2nd Place Award</span> at Mobile Intelligent Photography & Imaging (MIPI) Workshop for RGBW Remosaic @ **CVPR 2023**.
-- *09/2022* &nbsp;🎉 1 [paper](https://www.sciencedirect.com/science/article/pii/S0306457322002485) was accepted to Information Processing & Management (<b>IPM</b>, IF=8.6).
-- *09/2022* &nbsp;👏 Obtain <span style="color:red">Winner Award</span> (Subjective track) at Mobile AI (AIM) workshop for Learned Smartphone ISP Challenge @ **ECCV 2022**.
-- *06/2022* &nbsp;👏 Obtain <span style="color:red">Winner Award</span> at New Trends in Image Restoration and Enhancement (NTIRE) Workshop @ **CVPR 2022**.
-- *06/2022* &nbsp;🎉 1 [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004) was accepted to ACMMM 2022.
+- *03/2023* &nbsp; 1 [paper](https://ieeexplore.ieee.org/abstract/document/10095231) was accepted to ICASSP 2023 (<span style="color:red">Top 3% recongintion</span>).
+- *03/2022* &nbsp; Obtain <span style="color:red">2nd Place Award</span> at Mobile Intelligent Photography & Imaging (MIPI) Workshop for RGBW Remosaic @ **CVPR 2023**.
+- *09/2022* &nbsp; 1 [paper](https://www.sciencedirect.com/science/article/pii/S0306457322002485) was accepted to Information Processing & Management (<b>IPM</b>, IF=8.6).
+- *09/2022* &nbsp; Obtain <span style="color:red">Winner Award</span> (Subjective track) at Mobile AI (AIM) workshop for Learned Smartphone ISP Challenge @ **ECCV 2022**.
+- *06/2022* &nbsp; Obtain <span style="color:red">Winner Award</span> at New Trends in Image Restoration and Enhancement (NTIRE) Workshop @ **CVPR 2022**.
+- *06/2022* &nbsp; 1 [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004) was accepted to ACMMM 2022.
 
-# 💻 Research Experience
+# Research Experience
 <div style="display: flex; align-items: center;">
   <img src="../images/icons8-microsoft-480.png" alt="" style="width: 90px; margin-right: 50px; margin-left: 20px;"/>
   <ul style="list-style-type: disc; padding-left: 20px;">
@@ -71,7 +71,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 </div>
 
 
-# 📃 Publications 
+# Publications 
 
 #### &nbsp;&nbsp; Multi-modal Intelligence
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2024``</span> [MoLE: Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S). **Xun Wu**, Shaohan Huang, Furu Wei. International Conference on Learning Representations (<b>ICLR</b>), 2024.
@@ -87,13 +87,13 @@ My research aim to build up unified AI system capable of simultaneously processi
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECCVW 2022``</span> [Learning to Joint Remosaic and Denoise in Quad Bayer CFA via Universal Multi-scale Channel Attention Network](https://link.springer.com/chapter/10.1007/978-3-031-25072-9_10). **Xun Wu**, Zhihao Fan, Jiesi Zheng, Yaqi Wu, Feng Zhang. European Conference on Computer Vision - 1nd Mobile Intelligent Photography & Imaging Workshop (<b>ECCVW</b>), 2022.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECCVW 2022``</span> [Residual Feature Distillation Channel Spatial Attention Network for ISP on Smartphone](https://link.springer.com/chapter/10.1007/978-3-031-25063-7_40). Jiesi Zheng, Zhihao Fan, **Xun Wu**, Yaqi Wu, Feng Zhang. European Conference on Computer Vision - Advances in Image Manipulation workshop and challenges (<b>CVPRW</b>), 2022.
 
-# 💪 Competition
+# Competition
 - New Trends in Image Restoration and Enhancement (**NTIRE**) Workshop on Multi-Spectral Filter Array Demosaicing @ **CVPR2022**, <span style="color:red">Winner Award</span> (**157 teams**)
 - Mobile AI (**AIM**) workshop for Learned Smartphone ISP Challenge @ **ECCV2022**, <span style="color:red">Winner Award</span>
 - Mobile Intelligent Photography & Imaging (**MIPI**) Workshop for RGBW Remosaic @ **ECCV2022**, <span style="color:red">2nd Place Award</span> (**81 teams**)
 - Mobile Intelligent Photography & Imaging (**MIPI**) Workshop for Quad Bayer Remosaic @ **ECCV2022**, <span style="color:red">5nd Place</span>
 
-# ✨ Honors and Awards
+# Honors and Awards
 - *2023.11* Ubiquant Scholarship, Tsinghua University.
 - *2023.06* Top-3% Paper recongition, ICASSP 2023.
 - *2021.10 - 2023.10* Outstanding Student Award & Second-class Scholarship (**×3**), Tsinghua University.
@@ -104,7 +104,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 - *2017.02* Sencond Prize in Provinces, Chinese Physics Olympiad.
 
 
-# 🎓 Educations
+# Educations
 - *2021.09 - present*, Tsinghua University
 - *2017.09 - 2021.06*, Central South University.
 
@@ -124,12 +124,12 @@ My research aim to build up unified AI system capable of simultaneously processi
 </div>
 -->
 
-# ⚓ Academic Services
+# Academic Services
 Conference Reviewer:
 - 2024 CVPR
 - 2023 ACMMM, ICASSP, CVPR
 
-# 🌚 Miscellaneous
+# Miscellaneous
 - 🏀 I am a big fan of basketball. I've been in the THU SS basketball team. Back to my undergrad, I was a member of the CSU SCSE basketball team, where we won the 4nd Place of the 2018 CSU Cup basketball tournament.
 - 😉 I am very interested in painting as well as traditional Chinese calligraphy.
 <br>
