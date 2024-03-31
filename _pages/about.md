@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year master student at School of Software, Tsinghua University. Previously, I received my B.S. with honors from School of Computer Science and Engineering, Central South University. In the course of my research, I am delighted to cooperated with <a href="http://buaahsh.github.io/">Dr. Shaohan Huang</a>, [Yutong Bai](https://yutongbai.com/), [Dr. Guolong Wang](https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra), [Dr. Feng Zhang](https://cn.linkedin.com/in/gleefeng), [Dr. Jimmy S. Ren](http://www.jimmyren.com/) and [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ). 
+I am currently a final-year master student at School of Software, Tsinghua University. Previously, I received my B.S. with honors from School of Computer Science and Engineering, Central South University. In the course of my research, I am delighted to cooperated with <a href="http://buaahsh.github.io/">Dr. Shaohan Huang</a>, [Dr. Guolong Wang](https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra), [Dr. Feng Zhang](https://cn.linkedin.com/in/gleefeng), [Dr. Jimmy S. Ren](http://www.jimmyren.com/) and [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ). 
 
 <!-- You can find my CV here: [Curriculum Vitae](./files/cv_wuxun_tsinghua_university_2024_fall_PhD_application.pdf).-->
 
@@ -56,7 +56,7 @@ My research aim to build up unified AI system capable of simultaneously processi
   <img src="../images/CCVL.png" alt="" style="width: 150px; margin-right: 10px; margin-left: 20px; "/>
   <ul style="list-style-type: disc; padding-left: 0px;">
     <li style="list-style-type: none;">Computational Cognition, Vision, and Learning Group (<a href="https://ccvl.jhu.edu/">CCVL</a>), Johns Hopkins University</li>
-    <li style="list-style-type: none;"><em>2023.06 - 2023.09</em>, <strong>Summer intern</strong></li>
+    <li style="list-style-type: none;"><em>2023.06 - 2023.09</em>, <strong>Remote summer intern</strong></li>
     <li style="list-style-type: none;">mentored by <a href="https://yutongbai.com/">Dr. Yutong Bai</a> and <a href="https://www.cs.jhu.edu/~ayuille/">Prof. Alan Yuille</a></li>
   </ul>
 </div>
