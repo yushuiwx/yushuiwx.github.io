@@ -30,6 +30,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 
 # News
+- *05/2024* &nbsp; 2 papers were accepted to KDD2024.
 - *04/2024* &nbsp; 1 paper was accepted to ICME2024 (<span style="color:red">Oral</span>).
 - *01/2024* &nbsp; 1 paper was accepted to ICLR2024.
 - *12/2023* &nbsp; 1 paper was accepted to ICASSP2024.
