@@ -112,6 +112,18 @@ My research aim to build up unified AI system capable of simultaneously processi
 ### &nbsp;&nbsp; 📚 Multi-modal Intelligence
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2022</div><img src='images/MM22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Prompt-based Zero-shot Video Moment Retrieval](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004)**
+
+<a href="https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra">Guolong Wang *</a>, **Xun Wu** *, Zhaoyuan Liu, <a href="https://scholar.google.com/citations?user=ga230VoAAAAJ">JunChi Yan</a>
+
+-  Propose.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arixv</div><img src='images/visionprefer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation](https://arxiv.org/abs/2404.15100)**
