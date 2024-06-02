@@ -86,7 +86,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/MoLE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/KDD1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Routing Evidence for Unseen Actions in Video Moment Retrieval** (paper released soon)
 
