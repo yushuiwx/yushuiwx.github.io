@@ -35,7 +35,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 - *11/2023* &nbsp; 1 paper was accepted to Information Sciences.
 - *07/2023* &nbsp; 1 [paper](https://ieeexplore.ieee.org/abstract/document/10222116) was accepted to ICIP 2023.
 - *04/2023* &nbsp; Join [Natural Language Computing group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) of Microsoft Research Asia (MSRA) as a Research Intern.
-- *03/2023* &nbsp; 1 [paper](https://ieeexplore.ieee.org/abstract/document/10095231) was accepted to ICASSP 2023 <span style="color:red">(Top 3%)</span>).
+- *03/2023* &nbsp; 1 [paper](https://ieeexplore.ieee.org/abstract/document/10095231) was accepted to ICASSP 2023 <span style="color:red">(Top 3%)</span>.
 - *03/2022* &nbsp; Obtain <span style="color:red">2nd Place Award</span> at Mobile Intelligent Photography & Imaging (MIPI) Workshop for RGBW Remosaic @ **CVPR 2023**.
 - *09/2022* &nbsp; 1 [paper](https://www.sciencedirect.com/science/article/pii/S0306457322002485) was accepted to Information Processing & Management (<b>IPM</b>, IF=8.6).
 - *09/2022* &nbsp; Obtain <span style="color:red">3rd Place Award</span> at Mobile AI (AIM) workshop for Learned Smartphone ISP Challenge @ **ECCV 2022**.
@@ -177,7 +177,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 # Academic Services
 Conference Reviewer:
 - 2024 CVPR, NIPS, MM, KDD
-- 2023 ACM, ICASSP, CVPR
+- 2023 MM, ICASSP, CVPR
 
 # Miscellaneous
 - 🏀 I am a big fan of basketball. I've been in the THU SS basketball team. Back to my undergrad, I was a member of the CSU SCSE basketball team, where we won the 4nd Place of the 2018 CSU Cup basketball tournament.
