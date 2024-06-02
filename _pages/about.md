@@ -110,6 +110,19 @@ My research aim to build up unified AI system capable of simultaneously processi
 -->
 
 ### &nbsp;&nbsp; 📚 Multi-modal Intelligence
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arixv</div><img src='images/visionprefer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation](https://arxiv.org/abs/2404.15100)**
+
+**Xun Wu**, <a href="http://buaahsh.github.io/">Shaohan Huang</a>, <a href="https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra">Guolong Wang</a>, <a href="https://thegenerality.com/">Furu Wei</a>
+
+-  Propose VisionPrefer and VP-Score.
+
+</div>
+</div>
+
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arixv``</span> [Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation](https://arxiv.org/abs/2404.15100). **Xun Wu**, Shaohan Huang, Furu Wei. Arixv, 2024.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICASSP 2023``</span> [Instance-Aware Hierarchical Structured Policy for Prompt Learning in Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/10095231). **Xun Wu** *, Guolong Wang *, Zhaoyuan Liu, Xuan Dang, Zhen Qin. IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2023. <span style="color:red">(Top 3% recongintion)</span>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IPM``</span> [Reducing 0s bias in video moment retrieval with a circular competence-based captioner](https://www.sciencedirect.com/science/article/pii/S0306457322002485). Guolong Wang, **Xun Wu**, Zhaoyuan Liu, Zhen Qin. Information Processing & Management (<b>IPM</b>, IF=8.6), 2022.
@@ -126,7 +139,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 # Competition
 - New Trends in Image Restoration and Enhancement (**NTIRE**) Workshop on Multi-Spectral Filter Array Demosaicing @ **CVPR2022**, <span style="color:red">Winner Award</span> (**157 teams**)
-- Mobile AI (**AIM**) workshop for Learned Smartphone ISP Challenge @ **ECCV2022**, <span style="color:red">Winner Award</span>
+- Mobile AI (**AIM**) workshop for Learned Smartphone ISP Challenge @ **ECCV2022**, <span style="color:red">3rd Place Award</span>
 - Mobile Intelligent Photography & Imaging (**MIPI**) Workshop for RGBW Remosaic @ **ECCV2022**, <span style="color:red">2nd Place Award</span> (**81 teams**)
 - Mobile Intelligent Photography & Imaging (**MIPI**) Workshop for Quad Bayer Remosaic @ **ECCV2022**, <span style="color:red">5nd Place</span>
 
