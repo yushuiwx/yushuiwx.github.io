@@ -34,7 +34,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 - *12/2023* &nbsp; 1 paper was accepted to ICASSP2024.
 - *11/2023* &nbsp; 1 paper was accepted to Information Sciences.
 - *07/2023* &nbsp; 1 [paper](https://ieeexplore.ieee.org/abstract/document/10222116) was accepted to ICIP 2023.
-- *04/2023* &nbsp; Join [Natural Language Computing group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) of Microsoft Research Asia (MSRA) as a Research Intern.
+- *04/2023* &nbsp; Join [Natural Language Computing group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) of Microsoft Research Asia (MSRA) as a research intern.
 - *03/2023* &nbsp; 1 [paper](https://ieeexplore.ieee.org/abstract/document/10095231) was accepted to ICASSP 2023 <span style="color:red">(Top 3%)</span>.
 - *03/2022* &nbsp; Obtain <span style="color:red">2nd Place Award</span> at Mobile Intelligent Photography & Imaging (MIPI) Workshop for RGBW Remosaic @ **CVPR 2023**.
 - *09/2022* &nbsp; 1 [paper](https://www.sciencedirect.com/science/article/pii/S0306457322002485) was accepted to Information Processing & Management (<b>IPM</b>, IF=8.6).
@@ -150,8 +150,12 @@ My research aim to build up unified AI system capable of simultaneously processi
 # Competition
 - New Trends in Image Restoration and Enhancement (**NTIRE**) Workshop on Multi-Spectral Filter Array Demosaicing @ **CVPR2022**, <span style="color:red">Winner Award</span> (**157 teams**)
 - Mobile AI (**AIM**) workshop for Learned Smartphone ISP Challenge @ **ECCV2022**, <span style="color:red">3rd Place Award</span>
+   - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ECCVW 2022``</span> [Residual Feature Distillation Channel Spatial Attention Network for ISP on Smartphone](https://link.springer.com/chapter/10.1007/978-3-031-25063-7_40). Jiesi Zheng, Zhihao Fan, **Xun Wu**, Yaqi Wu, Feng Zhang. European Conference on Computer Vision - Advances in Image Manipulation workshop and challenges (<b>CVPRW</b>), 2022.
 - Mobile Intelligent Photography & Imaging (**MIPI**) Workshop for RGBW Remosaic @ **ECCV2022**, <span style="color:red">2nd Place Award</span> (**81 teams**)
+  - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``CVPRW 2023``</span> [OTST: A Two-Phase Framework for Joint Denoising and Remosaicing in RGBW CFA](https://openaccess.thecvf.com/content/CVPR2023W/MIPI/papers/Fan_OTST_A_Two-Phase_Framework_for_Joint_Denoising_and_Remosaicing_in_CVPRW_2023_paper.pdf). Zhihao Fan *, **Xun Wu** *, Fanqing Meng, Yaqi Wu, Feng Zhang. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition - 2nd Mobile Intelligent Photography & Imaging Workshop (<b>CVPRW</b>), 2022.
+  
 - Mobile Intelligent Photography & Imaging (**MIPI**) Workshop for Quad Bayer Remosaic @ **ECCV2022**, <span style="color:red">5nd Place</span>
+
 
 # Honors and Awards
 - *2023.11* Ubiquant Scholarship, Tsinghua University.
