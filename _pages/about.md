@@ -90,7 +90,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 <div class='paper-box-text' markdown="1">
 **Routing Evidence for Unseen Actions in Video Moment Retrieval** (paper released soon)
 
-Guolong Wang *, **Xun Wu** *, Zhen Qin, Liangliang Shi
+<a href="https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra">Guolong Wang</a> *, **Xun Wu** *, Zhen Qin, Liangliang Shi
 
 -  Propose Routing Evidence (RE) by investigating mixture of prediection heads with uncertainty estimator (e.g., evidence learning), and achieve state-of-the-art performance on unseen actions in video moment retrieval task.
 
@@ -99,10 +99,12 @@ Guolong Wang *, **Xun Wu** *, Zhen Qin, Liangliang Shi
 
 
 
-
+<!--
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arixv``</span> [Multi-Head Mixture of Experts](https://arxiv.org/abs/2404.15045). **Xun Wu**, Shaohan Huang, Wenhui Wang, Furu Wei. Arixv, 2024.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2024``</span> [Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S). **Xun Wu**, Shaohan Huang, Furu Wei. International Conference on Learning Representations (<b>ICLR</b>), 2024.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``KDD 2024``</span> Routing Evidence for Unseen Actions in Video Moment Retrieval. Guolong Wang *, **Xun Wu** *, Zhen Qin, Liangliang Shi. SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), 2024.
+```
+-->
 
 ### &nbsp;&nbsp; 📚 Multi-modal Intelligence
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arixv``</span> [Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation](https://arxiv.org/abs/2404.15100). **Xun Wu**, Shaohan Huang, Furu Wei. Arixv, 2024.
