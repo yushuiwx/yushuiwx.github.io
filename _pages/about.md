@@ -92,7 +92,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 <a href="https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra">Guolong Wang</a> *, **Xun Wu** *, Zhen Qin, Liangliang Shi
 
--  Propose Routing Evidence (RE) by investigating mixture of prediection heads with uncertainty estimator (e.g., evidence learning), and achieve state-of-the-art performance on unseen actions in video moment retrieval task.
+-  Propose Routing Evidence (RE) by investigating mixture of prediection heads with uncertainty estimator (e.g., evidence learning), and achieve state-of-the-art out-of-domain (e.g., unseen actions) retrival performance on video moment retrieval task.
 
 </div>
 </div>
