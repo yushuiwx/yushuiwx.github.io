@@ -65,6 +65,16 @@ My research aim to build up unified AI system capable of simultaneously processi
 # Publications 
  $^{*}$ indicates co-first author 
 #### &nbsp;&nbsp; Mixture-of-Experts
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/iclr24.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Rotation Has Two Sides: Evaluating Data Augmentation for Deep One-class Classification](https://openreview.net/forum?id=Ad81awoBVS) <font color=Red>(Spotlight, 5%)</font>
+
+**Guodong Wang**, <a href="http://irip.buaa.edu.cn/yhwang/index.html">Yunhong Wang</a>, Xiuguo Bao, <a href="http://irip.buaa.edu.cn/dihuang/index.html">Di Huang</a>
+</div>
+</div>
+
+
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arixv``</span> [Multi-Head Mixture of Experts](https://arxiv.org/abs/2404.15045). **Xun Wu**, Shaohan Huang, Wenhui Wang, Furu Wei. Arixv, 2024.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2024``</span> [Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S). **Xun Wu**, Shaohan Huang, Furu Wei. International Conference on Learning Representations (<b>ICLR</b>), 2024.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``KDD 2024``</span> Routing Evidence for Unseen Actions in Video Moment Retrieval. Guolong Wang *, **Xun Wu** *, Zhen Qin, Liangliang Shi. SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), 2024.
