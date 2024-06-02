@@ -71,7 +71,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 **Xun Wu**, <a href="http://buaahsh.github.io/">Shaohan Huang</a>, Wenhui Wang, <a href="https://thegenerality.com/">Furu Wei</a>
 
--  Significantly increased the expert activation ratio and enhanced finegrained understanding capabilities in the SMoE model by partitioning tokens before the gating functions
+-  Significantly increase the expert activation ratio and enhanced fine-grained understanding capabilities in the SMoE model by partitioning tokens before the gating functions.
 </div>
 </div>
 
@@ -81,7 +81,19 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 **Xun Wu**, <a href="http://buaahsh.github.io/">Shaohan Huang</a>, <a href="https://thegenerality.com/">Furu Wei</a>
 
--  Achieves a flexible and dynamic combination of multiple trained LoRAs through a gating network while preserving their individual characteristics
+-  Achieve a flexible and dynamic combination of multiple trained LoRAs through a gating network while preserving their individual characteristics.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/MoLE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Routing Evidence for Unseen Actions in Video Moment Retrieval** (paper released soon)
+
+Guolong Wang *, **Xun Wu** *, Zhen Qin, Liangliang Shi
+
+-  Propose Routing Evidence (RE) by investigating mixture of prediection heads with uncertainty estimator (e.g., evidence learning), and achieve state-of-the-art performance on unseen actions in video moment retrieval task.
+
 </div>
 </div>
 
