@@ -120,8 +120,8 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 # Academic Services
 Conference Reviewer:
-- 2024 CVPR
-- 2023 ACMMM, ICASSP, CVPR
+- 2024 CVPR, NIPS, MM, KDD
+- 2023 ACM, ICASSP, CVPR
 
 # Miscellaneous
 - 🏀 I am a big fan of basketball. I've been in the THU SS basketball team. Back to my undergrad, I was a member of the CSU SCSE basketball team, where we won the 4nd Place of the 2018 CSU Cup basketball tournament.
