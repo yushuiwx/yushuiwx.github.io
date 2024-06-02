@@ -67,9 +67,9 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/MoLE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S)
+**[Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S)**
 
-**Xun Wu**, Shaohan Huang, Furu Wei
+**Xun Wu**, <a href="http://buaahsh.github.io/">Shaohan Huang</a>, <a href="https://thegenerality.com/">Furu Wei</a>
 
 -  Achieves a flexible and dynamic combination of multiple trained LoRAs through a gating network while preserving their individual characteristics
 </div>
