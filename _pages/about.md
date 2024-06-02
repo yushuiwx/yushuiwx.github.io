@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year master student at School of Software, Tsinghua University. Previously, I received my B.S. with honors from School of Computer Science and Engineering, Central South University. In the course of my research, I am delighted to cooperated with <a href="http://buaahsh.github.io/">Dr. Shaohan Huang</a>, [Dr. Guolong Wang](https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra), [Dr. Feng Zhang](https://cn.linkedin.com/in/gleefeng), [Dr. Jimmy S. Ren](http://www.jimmyren.com/) and [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ). 
+I am currently a final-year master student at School of Software, Tsinghua University. Previously, I received my B.S. from School of Computer Science and Engineering, Central South University, where I was awarded Outstanding Undergraduate Thesis Award (**Top 2%**). In the course of my research, I am delighted to cooperated with <a href="http://buaahsh.github.io/">Dr. Shaohan Huang</a>, [Dr. Guolong Wang](https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra), [Dr. Feng Zhang](https://cn.linkedin.com/in/gleefeng), [Dr. Jimmy S. Ren](http://www.jimmyren.com/) and [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ). 
 
 <!-- You can find my CV here: [Curriculum Vitae](./files/cv_wuxun_tsinghua_university_2024_fall_PhD_application.pdf).-->
 
