@@ -82,7 +82,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 <div class='paper-box-text' markdown="1">
 **[Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S)**
 
-International Conference on Learning Representations (**ICLR**), 2024.
+<em>International Conference on Learning Representations (**ICLR**), 2024</em>
 
 **Xun Wu**, <a href="http://buaahsh.github.io/">Shaohan Huang</a>, <a href="https://thegenerality.com/">Furu Wei</a>
 
@@ -95,7 +95,7 @@ International Conference on Learning Representations (**ICLR**), 2024.
 <div class='paper-box-text' markdown="1">
 **Routing Evidence for Unseen Actions in Video Moment Retrieval** (paper released soon)
   
-SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2024.
+<em>SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2024</em>
 
 <a href="https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra">Guolong Wang</a> *, **Xun Wu** *, Zhen Qin, Liangliang Shi
 
