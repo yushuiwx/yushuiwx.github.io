@@ -82,6 +82,8 @@ My research aim to build up unified AI system capable of simultaneously processi
 <div class='paper-box-text' markdown="1">
 **[Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S)**
 
+International Conference on Learning Representations (**ICLR**), 2024.
+
 **Xun Wu**, <a href="http://buaahsh.github.io/">Shaohan Huang</a>, <a href="https://thegenerality.com/">Furu Wei</a>
 
 -  Achieve a flexible and dynamic combination of multiple trained LoRAs through a gating network while preserving their individual characteristics.
@@ -92,6 +94,8 @@ My research aim to build up unified AI system capable of simultaneously processi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/KDD1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Routing Evidence for Unseen Actions in Video Moment Retrieval** (paper released soon)
+  
+SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2024.
 
 <a href="https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra">Guolong Wang</a> *, **Xun Wu** *, Zhen Qin, Liangliang Shi
 
