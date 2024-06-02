@@ -22,16 +22,14 @@ I am currently a final-year master student at School of Software, Tsinghua Unive
 <!-- You can find my CV here: [Curriculum Vitae](./files/cv_wuxun_tsinghua_university_2024_fall_PhD_application.pdf).-->
 
 My research aim to build up unified AI system capable of simultaneously processing information from multiple modalities and addressing various downstream tasks. With this goal, I have explored following topics:
-* **alignment, debiasing and uncertainty calibration**: alignment for large language models (LLMs) and diffusion models, RLAIF, LLMs uncertainty confidence calibration.
 * **language-based multi-modal intelligence**: multi-modal learning (acoustic, vision, language and point clouds modalities, etc.), multi-modal retrieval and summarization, downstream adaption (zero-shot learning, parameter-efficient fine-tuning), superalignment, confidence calibration methods and LLM hallucination.
-* **visual representation learning**: unified vision model for diverse tasks (object detection, segmentation and reconstruction, etc.)
+* **alignment, debiasing and uncertainty calibration**: alignment for large language models (LLMs) and diffusion models, RLAIF, LLMs uncertainty confidence calibration.
 
 <!-- I have published papers <a href='https://scholar.google.com/citations?user=H6v9t9kAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2yushuiwx%2yushuiwx.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences. -->
 
 
 # News
 - *05/2024* &nbsp; 2 papers were accepted to KDD2024.
-- *04/2024* &nbsp; 1 paper was accepted to ICME2024 (<span style="color:red">Oral</span>).
 - *01/2024* &nbsp; 1 paper was accepted to ICLR2024.
 - *12/2023* &nbsp; 1 paper was accepted to ICASSP2024.
 - *11/2023* &nbsp; 1 paper was accepted to Information Sciences.
@@ -40,7 +38,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 - *03/2023* &nbsp; 1 [paper](https://ieeexplore.ieee.org/abstract/document/10095231) was accepted to ICASSP 2023 (<span style="color:red">Top 3% recongintion</span>).
 - *03/2022* &nbsp; Obtain <span style="color:red">2nd Place Award</span> at Mobile Intelligent Photography & Imaging (MIPI) Workshop for RGBW Remosaic @ **CVPR 2023**.
 - *09/2022* &nbsp; 1 [paper](https://www.sciencedirect.com/science/article/pii/S0306457322002485) was accepted to Information Processing & Management (<b>IPM</b>, IF=8.6).
-- *09/2022* &nbsp; Obtain <span style="color:red">Winner Award</span> (Subjective track) at Mobile AI (AIM) workshop for Learned Smartphone ISP Challenge @ **ECCV 2022**.
+- *09/2022* &nbsp; Obtain <span style="color:red">3rd Place Award</span> (Subjective track) at Mobile AI (AIM) workshop for Learned Smartphone ISP Challenge @ **ECCV 2022**.
 - *06/2022* &nbsp; Obtain <span style="color:red">Winner Award</span> at New Trends in Image Restoration and Enhancement (NTIRE) Workshop @ **CVPR 2022**.
 - *06/2022* &nbsp; 1 [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004) was accepted to ACMMM 2022.
 
@@ -51,15 +49,6 @@ My research aim to build up unified AI system capable of simultaneously processi
     <li style="list-style-type: none;">Natural Language Computing Group (<a href="[https://ccvl.jhu.edu/](https://www.microsoft.com/en-us/research/group/natural-language-computing/)">NLC</a>), Microsoft Research Asia</li>
     <li style="list-style-type: none;"><em>2023.04 - present</em>, <strong>Research intern</strong></li>
     <li style="list-style-type: none;">mentored by <a href="http://buaahsh.github.io/">Shaohan Huang</a></li>
-  </ul>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <img src="../images/CCVL.png" alt="" style="width: 150px; margin-right: 10px; margin-left: 20px; "/>
-  <ul style="list-style-type: disc; padding-left: 0px;">
-    <li style="list-style-type: none;">Computational Cognition, Vision, and Learning Group (<a href="https://ccvl.jhu.edu/">CCVL</a>), Johns Hopkins University</li>
-    <li style="list-style-type: none;"><em>2023.06 - 2023.09</em>, <strong>Remote summer intern</strong></li>
-    <li style="list-style-type: none;">mentored by <a href="https://yutongbai.com/">Dr. Yutong Bai</a> and <a href="https://www.cs.jhu.edu/~ayuille/">Prof. Alan Yuille</a></li>
   </ul>
 </div>
 
