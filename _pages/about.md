@@ -35,10 +35,10 @@ My research aim to build up unified AI system capable of simultaneously processi
 - *11/2023* &nbsp; 1 paper was accepted to Information Sciences.
 - *07/2023* &nbsp; 1 [paper](https://ieeexplore.ieee.org/abstract/document/10222116) was accepted to ICIP 2023.
 - *04/2023* &nbsp; Join [Natural Language Computing group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) of Microsoft Research Asia (MSRA) as a Research Intern.
-- *03/2023* &nbsp; 1 [paper](https://ieeexplore.ieee.org/abstract/document/10095231) was accepted to ICASSP 2023 (<span style="color:red">Top 3% recongintion</span>).
+- *03/2023* &nbsp; 1 [paper](https://ieeexplore.ieee.org/abstract/document/10095231) was accepted to ICASSP 2023 <span style="color:red">(Top 3%)</span>).
 - *03/2022* &nbsp; Obtain <span style="color:red">2nd Place Award</span> at Mobile Intelligent Photography & Imaging (MIPI) Workshop for RGBW Remosaic @ **CVPR 2023**.
 - *09/2022* &nbsp; 1 [paper](https://www.sciencedirect.com/science/article/pii/S0306457322002485) was accepted to Information Processing & Management (<b>IPM</b>, IF=8.6).
-- *09/2022* &nbsp; Obtain <span style="color:red">3rd Place Award</span> (Subjective track) at Mobile AI (AIM) workshop for Learned Smartphone ISP Challenge @ **ECCV 2022**.
+- *09/2022* &nbsp; Obtain <span style="color:red">3rd Place Award</span> at Mobile AI (AIM) workshop for Learned Smartphone ISP Challenge @ **ECCV 2022**.
 - *06/2022* &nbsp; Obtain <span style="color:red">Winner Award</span> at New Trends in Image Restoration and Enhancement (NTIRE) Workshop @ **CVPR 2022**.
 - *06/2022* &nbsp; 1 [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004) was accepted to ACMMM 2022.
 
@@ -62,7 +62,10 @@ My research aim to build up unified AI system capable of simultaneously processi
 </div>
 
 
-# 📝 Publications ($^{*}$ indicates co-first author)
+# 📝 Publications 
+
+<em>$^{*}$ indicates co-first author</em>
+
 ### &nbsp;&nbsp; 🧑‍🎨 Mixture-of-Experts
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arixv</div><img src='images/MHMoE.png' alt="sym" width="100%"></div></div>
