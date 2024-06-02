@@ -57,24 +57,26 @@ My research aim to build up unified AI system capable of simultaneously processi
   <ul style="list-style-type: disc; padding-left: 20px;">
     <li style="list-style-type: none;">AI Sensing & Imaging Group, SenseTime</li>
     <li style="list-style-type: none;"><em>2021.04 - 2023.04</em>, <strong>Computer Vision Research intern</strong></li>
-    <li style="list-style-type: none;">mentored by <a href="https://scholar.google.com/citations?user=Yk3lxAoAAAAJ">Yaqi Wu</a> and Dr. Feng Zhang</li>
+    <li style="list-style-type: none;">mentored by <a href="https://scholar.google.com/citations?user=Yk3lxAoAAAAJ">Yaqi Wu</a> and <a href="https://www.linkedin.com/in/gleefeng/?originalSubdomain=cn">Dr. Feng Zhang</a></li>
   </ul>
 </div>
 
 
 # Publications 
-
-#### &nbsp;&nbsp; Multi-modal Intelligence & Mixture-of-Experts
-- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arixv``</span> [Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation](https://arxiv.org/abs/2404.15100). **Xun Wu**, Shaohan Huang, Furu Wei. Arixv, 2024.
+ $^{*}$ indicates co-first author 
+#### &nbsp;&nbsp; Mixture-of-Experts
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arixv``</span> [Multi-Head Mixture of Experts](https://arxiv.org/abs/2404.15045). **Xun Wu**, Shaohan Huang, Wenhui Wang, Furu Wei. Arixv, 2024.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2024``</span> [Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S). **Xun Wu**, Shaohan Huang, Furu Wei. International Conference on Learning Representations (<b>ICLR</b>), 2024.
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``KDD 2024``</span> Routing Evidence for Unseen Actions in Video Moment Retrieval. Guolong Wang *, **Xun Wu** *, Zhen Qin, Liangliang Shi. SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), 2024.
+#### &nbsp;&nbsp; Multi-modal Intelligence
+- <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arixv``</span> [Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation](https://arxiv.org/abs/2404.15100). **Xun Wu**, Shaohan Huang, Furu Wei. Arixv, 2024.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICASSP 2023``</span> [Instance-Aware Hierarchical Structured Policy for Prompt Learning in Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/10095231). **Xun Wu** *, Guolong Wang *, Zhaoyuan Liu, Xuan Dang, Zhen Qin. IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2023. <span style="color:red">(Top 3% recongintion)</span>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IPM``</span> [Reducing 0s bias in video moment retrieval with a circular competence-based captioner](https://www.sciencedirect.com/science/article/pii/S0306457322002485). Guolong Wang, **Xun Wu**, Zhaoyuan Liu, Zhen Qin. Information Processing & Management (<b>IPM</b>, IF=8.6), 2022.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ACMMM 2022``</span> [Prompt-based Zero-shot Video Moment Retrieval](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004). Guolong Wang *, **Xun Wu** *, Zhaoyuan Liu, JunChi Yan. Proceedings of the 30th ACM International Conference on Multimedia (<b>ACMMM</b>), 2022.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Information Sciences``</span> [Proaressive Reinforcement Learning for Video Summarization](https://www.sciencedirect.com/science/article/pii/S0020025523014731). Guolong Wang *, **Xun Wu** *, JunChi Yan. Information Sciences (<b>IS</b>, IF=8.1), 2023.
 
 
-#### &nbsp;&nbsp; Imaging & Low-level Vision
+#### &nbsp;&nbsp; Imaging & Low-level Vision (no longer my primary focus)
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICME 2024``</span> Improving Image Reconstruction and Synthesis by Balancing the Optimization from Frequency Perspective. **Xua Dang** *, **Xun Wu** *, Guolong Wang, Zhen Qin. IEEE International Conference on Multimedia and Expo (<b>ICME</b>), 2024. <span style="color:red">(Oral)</span>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICIP 2023``</span> [Joint Demosaicing and Denoising with Gradient Guidance in Quad Bayer CFA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10222116). **Xun Wu** *, Yaqi Wu *, Jiawei Zhang, Feng Zhang, Jimmy S. Ren. IEEE International Conference on Image Processing (<b>ICIP</b>), 2023.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``CVPRW 2023``</span> [OTST: A Two-Phase Framework for Joint Denoising and Remosaicing in RGBW CFA](https://openaccess.thecvf.com/content/CVPR2023W/MIPI/papers/Fan_OTST_A_Two-Phase_Framework_for_Joint_Denoising_and_Remosaicing_in_CVPRW_2023_paper.pdf). Zhihao Fan *, **Xun Wu** *, Fanqing Meng, Yaqi Wu, Feng Zhang. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition - 2nd Mobile Intelligent Photography & Imaging Workshop (<b>CVPRW</b>), 2022.
