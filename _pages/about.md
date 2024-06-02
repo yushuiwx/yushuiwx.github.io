@@ -28,7 +28,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 <!-- I have published papers <a href='https://scholar.google.com/citations?user=H6v9t9kAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2yushuiwx%2yushuiwx.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences. -->
 
 
-# News
+# 🔥 News
 - *05/2024* &nbsp; 2 papers were accepted to KDD2024.
 - *01/2024* &nbsp; 1 paper was accepted to ICLR2024.
 - *12/2023* &nbsp; 1 paper was accepted to ICASSP2024.
