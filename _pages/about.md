@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a final-year master student at School of Software, Tsinghua University. Previously, I received my B.S. from School of Computer Science and Engineering, Central South University, where I was awarded Outstanding Undergraduate Thesis Award (**Top 2%**). Now I am a research intern at Microsoft Research Asia, focusing primarily on Mixture-of-Experts and exploring multimodal pre-training models. Prior to this, I spent two years as a research intern at SenseTime, mainly focusing on developing advanced imaging technologies and integrating AI algorithms into imaging sensors and chips. Additionally, I have been a core team member in several international competitions, achieving notable rankings. I have published several papers at top international AI conferences such as ICLR and KDD.
-
-In the course of my research, I am delighted to cooperated with <a href="http://buaahsh.github.io/">Dr. Shaohan Huang</a>, [Dr. Guolong Wang](https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra), [Dr. Feng Zhang](https://cn.linkedin.com/in/gleefeng), [Dr. Jimmy S. Ren](http://www.jimmyren.com/) and [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ). 
+I am currently a final-year master student at School of Software, Tsinghua University. Previously, I received my B.S. from School of Computer Science and Engineering, Central South University, where I was awarded Outstanding Undergraduate Thesis Award (**Top 2%**). Now I am a research intern at Microsoft Research Asia, focusing primarily on Mixture-of-Experts and Multimodal Pre-training. Prior to this, I spent two years as a research intern at SenseTime, mainly focusing on developing advanced imaging technologies and integrating AI algorithms into imaging sensors and chips. Additionally, I have been a core team member in several international competitions, achieving notable rankings. I have published several papers at top international AI conferences such as ICLR and KDD. In the course of my research, I am delighted to cooperated with <a href="http://buaahsh.github.io/">Dr. Shaohan Huang</a>, [Dr. Guolong Wang](https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra), [Dr. Feng Zhang](https://cn.linkedin.com/in/gleefeng), [Dr. Jimmy S. Ren](http://www.jimmyren.com/) and [Yaqi Wu](https://scholar.google.com/citations?user=Yk3lxAoAAAAJ). 
 
 <!-- You can find my CV here: [Curriculum Vitae](./files/cv_wuxun_tsinghua_university_2024_fall_PhD_application.pdf).-->
 
@@ -31,18 +29,18 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 
 # 🔥 News
-- *05/2024* &nbsp; 2 papers were accepted to KDD2024.
-- *01/2024* &nbsp; 1 paper was accepted to ICLR2024.
-- *12/2023* &nbsp; 1 paper was accepted to ICASSP2024.
-- *11/2023* &nbsp; 1 paper was accepted to Information Sciences.
-- *07/2023* &nbsp; 1 [paper](https://ieeexplore.ieee.org/abstract/document/10222116) was accepted to ICIP 2023.
+- *05/2024* &nbsp; Two papers were accepted to KDD2024.
+- *01/2024* &nbsp; One paper was accepted to ICLR2024.
+- *12/2023* &nbsp; One paper was accepted to ICASSP2024.
+- *11/2023* &nbsp; One paper was accepted to Information Sciences.
+- *07/2023* &nbsp; One [paper](https://ieeexplore.ieee.org/abstract/document/10222116) was accepted to ICIP 2023.
 - *04/2023* &nbsp; Join [Natural Language Computing group](https://www.microsoft.com/en-us/research/group/natural-language-computing/) of Microsoft Research Asia (MSRA) as a research intern.
-- *03/2023* &nbsp; 1 [paper](https://ieeexplore.ieee.org/abstract/document/10095231) was accepted to ICASSP 2023 <span style="color:red">(Top 3%)</span>.
+- *03/2023* &nbsp; One [paper](https://ieeexplore.ieee.org/abstract/document/10095231) was accepted to ICASSP 2023 <span style="color:red">(Top 3%)</span>.
 - *03/2022* &nbsp; Obtain <span style="color:red">2nd Place Award</span> at Mobile Intelligent Photography & Imaging (MIPI) Workshop for RGBW Remosaic @ **CVPR 2023**.
-- *09/2022* &nbsp; 1 [paper](https://www.sciencedirect.com/science/article/pii/S0306457322002485) was accepted to Information Processing & Management (<b>IPM</b>, IF=8.6).
+- *09/2022* &nbsp; One [paper](https://www.sciencedirect.com/science/article/pii/S0306457322002485) was accepted to Information Processing & Management (<b>IPM</b>, IF=8.6).
 - *09/2022* &nbsp; Obtain <span style="color:red">3rd Place Award</span> at Mobile AI (AIM) workshop for Learned Smartphone ISP Challenge @ **ECCV 2022**.
 - *06/2022* &nbsp; Obtain <span style="color:red">Winner Award</span> at New Trends in Image Restoration and Enhancement (NTIRE) Workshop @ **CVPR 2022**.
-- *06/2022* &nbsp; 1 [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004) was accepted to ACMMM 2022.
+- *06/2022* &nbsp; One [paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004) was accepted to ACMMM 2022.
 
 # Research Experience
 <div style="display: flex; align-items: center;">
