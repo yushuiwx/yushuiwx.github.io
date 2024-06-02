@@ -62,15 +62,14 @@ My research aim to build up unified AI system capable of simultaneously processi
 </div>
 
 
-# Publications 
- $^{*}$ indicates co-first author 
-#### &nbsp;&nbsp; Mixture-of-Experts
+# Publications ($^{*}$ indicates co-first author)
+### &nbsp;&nbsp; Mixture-of-Experts
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/iclr24.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/MoLE.png.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Rotation Has Two Sides: Evaluating Data Augmentation for Deep One-class Classification](https://openreview.net/forum?id=Ad81awoBVS) <font color=Red>(Spotlight, 5%)</font>
+[Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S)
 
-**Guodong Wang**, <a href="http://irip.buaa.edu.cn/yhwang/index.html">Yunhong Wang</a>, Xiuguo Bao, <a href="http://irip.buaa.edu.cn/dihuang/index.html">Di Huang</a>
+**Xun Wu**, Shaohan Huang, Furu Wei
 </div>
 </div>
 
@@ -79,7 +78,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2024``</span> [Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S). **Xun Wu**, Shaohan Huang, Furu Wei. International Conference on Learning Representations (<b>ICLR</b>), 2024.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``KDD 2024``</span> Routing Evidence for Unseen Actions in Video Moment Retrieval. Guolong Wang *, **Xun Wu** *, Zhen Qin, Liangliang Shi. SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), 2024.
 
-#### &nbsp;&nbsp; Multi-modal Intelligence
+### &nbsp;&nbsp; Multi-modal Intelligence
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arixv``</span> [Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation](https://arxiv.org/abs/2404.15100). **Xun Wu**, Shaohan Huang, Furu Wei. Arixv, 2024.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICASSP 2023``</span> [Instance-Aware Hierarchical Structured Policy for Prompt Learning in Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/10095231). **Xun Wu** *, Guolong Wang *, Zhaoyuan Liu, Xuan Dang, Zhen Qin. IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2023. <span style="color:red">(Top 3% recongintion)</span>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IPM``</span> [Reducing 0s bias in video moment retrieval with a circular competence-based captioner](https://www.sciencedirect.com/science/article/pii/S0306457322002485). Guolong Wang, **Xun Wu**, Zhaoyuan Liu, Zhen Qin. Information Processing & Management (<b>IPM</b>, IF=8.6), 2022.
@@ -87,7 +86,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Information Sciences``</span> [Proaressive Reinforcement Learning for Video Summarization](https://www.sciencedirect.com/science/article/pii/S0020025523014731). Guolong Wang *, **Xun Wu** *, JunChi Yan. Information Sciences (<b>IS</b>, IF=8.1), 2023.
 
 
-#### &nbsp;&nbsp; Imaging & Low-level Vision (no longer my primary focus)
+### &nbsp;&nbsp; Imaging & Low-level Vision (no longer my primary focus)
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICME 2024``</span> Improving Image Reconstruction and Synthesis by Balancing the Optimization from Frequency Perspective. **Xua Dang** *, **Xun Wu** *, Guolong Wang, Zhen Qin. IEEE International Conference on Multimedia and Expo (<b>ICME</b>), 2024. <span style="color:red">(Oral)</span>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICIP 2023``</span> [Joint Demosaicing and Denoising with Gradient Guidance in Quad Bayer CFA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10222116). **Xun Wu** *, Yaqi Wu *, Jiawei Zhang, Feng Zhang, Jimmy S. Ren. IEEE International Conference on Image Processing (<b>ICIP</b>), 2023.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``CVPRW 2023``</span> [OTST: A Two-Phase Framework for Joint Denoising and Remosaicing in RGBW CFA](https://openaccess.thecvf.com/content/CVPR2023W/MIPI/papers/Fan_OTST_A_Two-Phase_Framework_for_Joint_Denoising_and_Remosaicing_in_CVPRW_2023_paper.pdf). Zhihao Fan *, **Xun Wu** *, Fanqing Meng, Yaqi Wu, Feng Zhang. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition - 2nd Mobile Intelligent Photography & Imaging Workshop (<b>CVPRW</b>), 2022.
