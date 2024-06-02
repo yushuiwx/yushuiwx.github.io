@@ -65,6 +65,16 @@ My research aim to build up unified AI system capable of simultaneously processi
 # 📝 Publications ($^{*}$ indicates co-first author)
 ### &nbsp;&nbsp; 🧑‍🎨 Mixture-of-Experts
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arixv</div><img src='images/MHMoE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**[Multi-Head Mixture of Experts](https://arxiv.org/abs/2404.15045)**
+
+**Xun Wu**, <a href="http://buaahsh.github.io/">Shaohan Huang</a>, Wenhui Wang, <a href="https://thegenerality.com/">Furu Wei</a>
+
+-  Significantly increased the expert activation ratio and enhanced finegrained understanding capabilities in the SMoE model by partitioning tokens before the gating functions
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/MoLE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **[Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S)**
@@ -74,6 +84,8 @@ My research aim to build up unified AI system capable of simultaneously processi
 -  Achieves a flexible and dynamic combination of multiple trained LoRAs through a gating network while preserving their individual characteristics
 </div>
 </div>
+
+
 
 
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arixv``</span> [Multi-Head Mixture of Experts](https://arxiv.org/abs/2404.15045). **Xun Wu**, Shaohan Huang, Wenhui Wang, Furu Wei. Arixv, 2024.
