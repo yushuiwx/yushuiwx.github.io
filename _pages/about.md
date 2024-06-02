@@ -48,7 +48,7 @@ My research aim to build up unified AI system capable of simultaneously processi
   <ul style="list-style-type: disc; padding-left: 20px;">
     <li style="list-style-type: none;">Natural Language Computing Group (<a href="[https://ccvl.jhu.edu/](https://www.microsoft.com/en-us/research/group/natural-language-computing/)">NLC</a>), Microsoft Research Asia</li>
     <li style="list-style-type: none;"><em>2023.04 - present</em>, <strong>Research intern</strong></li>
-    <li style="list-style-type: none;">mentored by <a href="http://buaahsh.github.io/">Shaohan Huang</a></li>
+    <li style="list-style-type: none;">mentored by <a href="http://buaahsh.github.io/">Dr. Shaohan Huang</a></li>
   </ul>
 </div>
 
