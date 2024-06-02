@@ -62,8 +62,8 @@ My research aim to build up unified AI system capable of simultaneously processi
 </div>
 
 
-# Publications ($^{*}$ indicates co-first author)
-### &nbsp;&nbsp; Mixture-of-Experts
+# 📝 Publications ($^{*}$ indicates co-first author)
+### &nbsp;&nbsp; 🧑‍🎨 Mixture-of-Experts
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/MoLE.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -78,7 +78,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICLR 2024``</span> [Mixture of LoRA Experts](https://openreview.net/pdf?id=uWvKBCYh4S). **Xun Wu**, Shaohan Huang, Furu Wei. International Conference on Learning Representations (<b>ICLR</b>), 2024.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``KDD 2024``</span> Routing Evidence for Unseen Actions in Video Moment Retrieval. Guolong Wang *, **Xun Wu** *, Zhen Qin, Liangliang Shi. SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), 2024.
 
-### &nbsp;&nbsp; Multi-modal Intelligence
+### &nbsp;&nbsp; 📚 Multi-modal Intelligence
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Arixv``</span> [Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation](https://arxiv.org/abs/2404.15100). **Xun Wu**, Shaohan Huang, Furu Wei. Arixv, 2024.
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICASSP 2023``</span> [Instance-Aware Hierarchical Structured Policy for Prompt Learning in Vision-Language Models](https://ieeexplore.ieee.org/abstract/document/10095231). **Xun Wu** *, Guolong Wang *, Zhaoyuan Liu, Xuan Dang, Zhen Qin. IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP</b>), 2023. <span style="color:red">(Top 3% recongintion)</span>
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``IPM``</span> [Reducing 0s bias in video moment retrieval with a circular competence-based captioner](https://www.sciencedirect.com/science/article/pii/S0306457322002485). Guolong Wang, **Xun Wu**, Zhaoyuan Liu, Zhen Qin. Information Processing & Management (<b>IPM</b>, IF=8.6), 2022.
