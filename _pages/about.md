@@ -31,7 +31,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 <!-- I have published papers <a href='https://scholar.google.com/citations?user=H6v9t9kAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2yushuiwx%2yushuiwx.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international AI conferences. -->
 
 
-# 🔥 News
+# News
 - *05/2024* &nbsp; Two papers were accepted to KDD2024.
 - *01/2024* &nbsp; One paper was accepted to ICLR2024.
 - *12/2023* &nbsp; One paper was accepted to ICASSP2024.
@@ -65,11 +65,11 @@ My research aim to build up unified AI system capable of simultaneously processi
 </div>
 
 
-# 📝 Publications 
+# Publications 
 
 <em>$^{*}$ indicates co-first author</em>
 
-### &nbsp;&nbsp; 🧑‍🎨 Mixture-of-Experts
+## &nbsp;&nbsp; 🧑‍🎨 Mixture-of-Experts
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arixv</div><img src='images/MHMoE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -116,7 +116,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 ```
 -->
 
-### &nbsp;&nbsp; 📚 Multi-modal Intelligence
+## &nbsp;&nbsp; 📚 Multi-modal Intelligence
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2022</div><img src='images/MM22.png' alt="sym" width="100%"></div></div>
@@ -149,7 +149,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``Information Sciences``</span> [Proaressive Reinforcement Learning for Video Summarization](https://www.sciencedirect.com/science/article/pii/S0020025523014731). Guolong Wang *, **Xun Wu** *, JunChi Yan. Information Sciences (<b>IS</b>, IF=8.1), 2023.
 
 
-### &nbsp;&nbsp; Imaging & Low-level Vision (no longer my primary focus)
+## &nbsp;&nbsp; Imaging & Low-level Vision (no longer my primary focus)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2023</div><img src='images/icip2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
