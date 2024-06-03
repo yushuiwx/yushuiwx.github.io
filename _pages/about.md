@@ -123,6 +123,8 @@ My research aim to build up unified AI system capable of simultaneously processi
 <div class='paper-box-text' markdown="1">
 **[Prompt-based Zero-shot Video Moment Retrieval](https://dl.acm.org/doi/pdf/10.1145/3503161.3548004)**
 
+<em>ACM Multimedia Conference (**ACMMM**), 2022</em> 
+
 <a href="https://scholar.google.com/citations?user=vc0T1NoAAAAJ&hl=zh-CN&oi=sra">Guolong Wang *</a>, **Xun Wu** *, Zhaoyuan Liu, <a href="https://scholar.google.com/citations?user=ga230VoAAAAJ">JunChi Yan</a>
 
 -  Propose.
