@@ -150,7 +150,21 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 
 ### &nbsp;&nbsp; Imaging & Low-level Vision (no longer my primary focus)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2023</div><img src='images/icip2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Joint Demosaicing and Denoising with Gradient Guidance in Quad Bayer CFA](https://ieeexplore.ieee.org/abstract/document/10222116)**
+
+**Xun Wu** *, Yaqi Wu * , [Jiawei Zhang](https://scholar.google.com/citations?user=0GTpIAIAAAAJ), [Feng Zhang](https://cn.linkedin.com/in/gleefeng), [Jimmy S. Ren](http://www.jimmyren.com/)
+
+-  
+
+</div>
+</div>
+
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICME 2024``</span> Improving Image Reconstruction and Synthesis by Balancing the Optimization from Frequency Perspective. **Xua Dang** *, **Xun Wu** *, Guolong Wang, Zhen Qin. IEEE International Conference on Multimedia and Expo (<b>ICME</b>), 2024. <span style="color:red">(Oral)</span>
+
+
 - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``ICIP 2023``</span> [Joint Demosaicing and Denoising with Gradient Guidance in Quad Bayer CFA](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10222116). **Xun Wu** *, Yaqi Wu *, Jiawei Zhang, Feng Zhang, Jimmy S. Ren. IEEE International Conference on Image Processing (<b>ICIP</b>), 2023.
 
 <!-- - <span style="background-color: #003366; color: white; padding: 1px 4px; font-size: 12px;">``CVPRW 2023``</span> [OTST: A Two-Phase Framework for Joint Denoising and Remosaicing in RGBW CFA](https://openaccess.thecvf.com/content/CVPR2023W/MIPI/papers/Fan_OTST_A_Two-Phase_Framework_for_Joint_Denoising_and_Remosaicing_in_CVPRW_2023_paper.pdf). Zhihao Fan *, **Xun Wu** *, Fanqing Meng, Yaqi Wu, Feng Zhang. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition - 2nd Mobile Intelligent Photography & Imaging Workshop (<b>CVPRW</b>), 2022.
