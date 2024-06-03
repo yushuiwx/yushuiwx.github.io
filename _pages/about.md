@@ -153,7 +153,7 @@ My research aim to build up unified AI system capable of simultaneously processi
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2023</div><img src='images/icip2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**Joint Demosaicing and Denoising with Gradient Guidance in Quad Bayer CFA](https://ieeexplore.ieee.org/abstract/document/10222116)**
+**[Joint Demosaicing and Denoising with Gradient Guidance in Quad Bayer CFA](https://ieeexplore.ieee.org/abstract/document/10222116)**
 
 **Xun Wu** *, Yaqi Wu * , [Jiawei Zhang](https://scholar.google.com/citations?user=0GTpIAIAAAAJ), [Feng Zhang](https://cn.linkedin.com/in/gleefeng), [Jimmy S. Ren](http://www.jimmyren.com/)
 
