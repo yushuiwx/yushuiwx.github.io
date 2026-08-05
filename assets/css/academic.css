@@ -253,12 +253,10 @@ strong {
 }
 
 .selected-section {
-  border-top: 1px solid var(--line);
   padding-block: 38px 46px;
 }
 
 .awards-section {
-  border-top: 1px solid var(--line);
   padding-block: 34px 46px;
 }
 
