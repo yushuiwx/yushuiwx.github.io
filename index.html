@@ -56,7 +56,8 @@ permalink: /
         </div>
       </section>
 
-      <section id="selected-publications" class="selected-section page-shell" aria-label="Selected publications">
+      <section id="selected-publications" class="selected-section page-shell" aria-labelledby="selected-publications-title">
+        <h3 id="selected-publications-title">Publications (selected)</h3>
         <div class="publications publications-selected">{% bibliography --query @*[selected=true] %}</div>
         <p class="all-link"><a href="{{ '/publications/' | relative_url }}">View all publications →</a></p>
       </section>
