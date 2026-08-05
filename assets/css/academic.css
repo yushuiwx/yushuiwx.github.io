@@ -401,11 +401,11 @@ strong {
   white-space: normal;
 }
 
-.publications .bibtex.hidden {
+.publications div.bibtex.hidden {
   display: none;
 }
 
-.publications .bibtex:not(.hidden) {
+.publications div.bibtex:not(.hidden) {
   display: block;
   margin-top: 13px;
 }
