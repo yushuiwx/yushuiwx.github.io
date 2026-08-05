@@ -139,7 +139,7 @@ strong {
 
 .hero {
   display: grid;
-  grid-template-columns: 190px minmax(0, 1fr) 210px;
+  grid-template-columns: 190px minmax(0, 1fr);
   gap: 38px;
   align-items: start;
   padding-block: 58px 50px;
@@ -201,38 +201,10 @@ strong {
   font-weight: 600;
 }
 
-.profile-links a:not(:last-child)::after {
+.profile-links > :not(:last-child)::after {
   margin-left: 18px;
   color: #aab3bc;
   content: "/";
-}
-
-.interest-panel {
-  margin-top: 29px;
-  border-top: 3px solid var(--navy);
-  background: var(--soft);
-  padding: 17px 18px 16px;
-}
-
-.interest-panel h2 {
-  margin: 0 0 9px;
-  color: var(--navy-deep);
-  font-size: 14.4px;
-  font-weight: 700;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-}
-
-.interest-panel ul {
-  margin: 0;
-  padding-left: 18px;
-}
-
-.interest-panel li {
-  margin: 3px 0;
-  color: #45515d;
-  font-size: 14.4px;
-  line-height: 1.7;
 }
 
 
@@ -373,8 +345,6 @@ strong {
 
 .publications .links,
 .publications .badges {
-  display: inline-flex;
-  flex-wrap: wrap;
   align-items: center;
   gap: 6px;
   margin-top: 8px;
@@ -382,10 +352,24 @@ strong {
   vertical-align: middle;
 }
 
+.publications .links {
+  display: inline-grid;
+  grid-auto-columns: minmax(48px, max-content);
+  grid-auto-flow: column;
+  white-space: nowrap;
+}
+
+.publications .badges {
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+
 .publications .links a {
   display: inline-flex;
   align-items: center;
-  min-height: 24px;
+  justify-content: center;
+  box-sizing: border-box;
+  height: 24px;
   border: 1px solid #b8c7d4;
   border-radius: 2px;
   padding: 2px 8px;
@@ -482,11 +466,6 @@ strong {
 
   .profile-photo {
     width: 160px;
-  }
-
-  .interest-panel {
-    grid-column: 2;
-    margin-top: 0;
   }
 }
 
@@ -586,10 +565,6 @@ strong {
 
   .profile-links {
     margin-top: 0;
-  }
-
-  .interest-panel {
-    grid-column: 1 / -1;
   }
 
   
