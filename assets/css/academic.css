@@ -192,6 +192,16 @@ strong {
   margin: 0 0 12px;
 }
 
+.hero-copy > .contact-line {
+  margin: -8px 0 18px;
+  color: var(--muted);
+}
+
+.contact-line span {
+  color: var(--ink);
+  font-weight: 600;
+}
+
 .profile-links {
   display: flex;
   flex-wrap: wrap;
@@ -245,6 +255,19 @@ strong {
 .selected-section {
   border-top: 1px solid var(--line);
   padding-block: 38px 46px;
+}
+
+.awards-section {
+  border-top: 1px solid var(--line);
+  padding-block: 34px 46px;
+}
+
+.awards-section h3 {
+  margin: 0;
+  color: var(--ink);
+  font-size: 16.848px;
+  font-weight: 600;
+  line-height: 24.48px;
 }
 
 .subpage-main {
@@ -625,6 +648,10 @@ strong {
 
   .selected-section {
     padding-block: 30px 38px;
+  }
+
+  .awards-section {
+    padding-block: 28px 38px;
   }
 
   .publications .row:has(.preview) {
