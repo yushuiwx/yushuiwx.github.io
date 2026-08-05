@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Selected and recent publications by Xun Wu.
+description: Complete publication list for Xun Wu.
 nav: true
 nav_order: 1
 ---
