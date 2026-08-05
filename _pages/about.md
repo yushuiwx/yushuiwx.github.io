@@ -35,4 +35,6 @@ latest_posts:
 
 I am a researcher at **Microsoft Research**. My research focuses on post-training for large language models, mixture-of-experts, and low-bit language models. I am broadly interested in building efficient, capable, and reliable foundation models.
 
+I received my master's degree in Computer Software Engineering from **Tsinghua University** in 2024 and my bachelor's degree in Computer Science from **Central South University** in 2021.
+
 For a complete and up-to-date publication list, please visit my [Google Scholar](https://scholar.google.com/citations?user=H6v9t9kAAAAJ&hl=en) profile.
