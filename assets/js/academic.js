@@ -1,0 +1,1 @@
+document.addEventListener("click",t=>{const e=t.target.closest(".publications .links .bibtex");if(!e)return;t.preventDefault();const i=e.closest("[id]"),s=i?.querySelector("div.bibtex");if(!s)return;const n=s.classList.contains("hidden");s.classList.toggle("hidden"),e.setAttribute("aria-expanded",String(n))});
