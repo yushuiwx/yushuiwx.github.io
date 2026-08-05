@@ -166,11 +166,11 @@ strong {
 
 .hero h1 {
   margin: 0;
-  color: #17202a;
+  color: var(--ink);
   font-size: 28.8px;
   font-weight: 600;
   letter-spacing: 0;
-  line-height: 1.7;
+  line-height: 24.48px;
 }
 
 .hero h1 span {
