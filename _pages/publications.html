@@ -1,0 +1,57 @@
+---
+layout: null
+permalink: /publications/
+title: Publications
+description: Complete publication list for Xun Wu.
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="{{ page.description | escape }}" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>{{ page.title }} · Xun Wu</title>
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav-shell" aria-label="Primary navigation">
+        <a class="site-name" href="{{ '/' | relative_url }}">Xun Wu</a>
+        <div class="nav-links">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/#research' | relative_url }}">Research</a>
+          <a href="{{ '/#selected-publications' | relative_url }}">Selected Publications</a>
+          <a class="is-active" href="{{ '/publications/' | relative_url }}">Publications</a>
+          <a href="{{ '/blog/' | relative_url }}">Blog</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="subpage-main page-shell">
+      <header class="subpage-header">
+        <p class="section-index">Research Output</p>
+        <div>
+          <h1 class="page-title">Publications</h1>
+          <p class="page-intro">
+            Complete publication list. Citation counts are synchronized daily from
+            <a href="https://scholar.google.com/citations?user=H6v9t9kAAAAJ&hl=en">Google Scholar</a>.
+          </p>
+        </div>
+      </header>
+
+      <div class="publications">{% bibliography %}</div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="page-shell footer-inner">
+        <span>© {{ 'now' | date: '%Y' }} Xun Wu</span>
+        <span>Built with Jekyll · Hosted on GitHub Pages</span>
+      </div>
+    </footer>
+
+    <script src="{{ '/assets/js/academic.js' | relative_url }}"></script>
+  </body>
+</html>

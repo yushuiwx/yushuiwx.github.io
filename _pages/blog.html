@@ -1,0 +1,81 @@
+---
+layout: null
+permalink: /blog/
+title: Blog
+pagination:
+  enabled: true
+  collection: posts
+  permalink: /page/:num/
+  per_page: 8
+  sort_field: date
+  sort_reverse: true
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="{{ site.blog_description | escape }}" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>{{ page.title }} · Xun Wu</title>
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav-shell" aria-label="Primary navigation">
+        <a class="site-name" href="{{ '/' | relative_url }}">Xun Wu</a>
+        <div class="nav-links">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/#research' | relative_url }}">Research</a>
+          <a href="{{ '/#selected-publications' | relative_url }}">Selected Publications</a>
+          <a href="{{ '/publications/' | relative_url }}">Publications</a>
+          <a class="is-active" href="{{ '/blog/' | relative_url }}">Blog</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="subpage-main page-shell">
+      <header class="subpage-header">
+        <p class="section-index">Notes & Ideas</p>
+        <div>
+          <h1 class="page-title">Blog</h1>
+          <p class="page-intro">{{ site.blog_description }}</p>
+        </div>
+      </header>
+
+      {% if paginator and paginator.posts %} {% assign postlist = paginator.posts %} {% else %} {% assign postlist = site.posts %} {% endif %} {% if
+      postlist.size > 0 %}
+      <ol class="blog-list">
+        {% for post in postlist %} {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
+        <li class="blog-item">
+          <time class="blog-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%B %d, %Y' }}</time>
+          <article>
+            <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+            {% if post.description %}
+            <p>{{ post.description }}</p>
+            {% endif %}
+            <p class="blog-meta">{{ read_time }} min read</p>
+          </article>
+        </li>
+        {% endfor %}
+      </ol>
+      {% else %}
+      <p class="empty-state">No posts yet. Research notes and longer-form writing will appear here.</p>
+      {% endif %} {% if paginator and paginator.total_pages > 1 %}
+      <nav class="pagination-links" aria-label="Blog pagination">
+        <span>{% if paginator.previous_page %}<a href="{{ paginator.previous_page_path | relative_url }}">← Newer posts</a>{% endif %}</span>
+        <span>{% if paginator.next_page %}<a href="{{ paginator.next_page_path | relative_url }}">Older posts →</a>{% endif %}</span>
+      </nav>
+      {% endif %}
+    </main>
+
+    <footer class="site-footer">
+      <div class="page-shell footer-inner">
+        <span>© {{ 'now' | date: '%Y' }} Xun Wu</span>
+        <span>Built with Jekyll · Hosted on GitHub Pages</span>
+      </div>
+    </footer>
+  </body>
+</html>

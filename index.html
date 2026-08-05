@@ -1,0 +1,105 @@
+---
+layout: null
+title: Xun Wu（吴浔）
+permalink: /
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="{{ site.description | strip_newlines | escape }}" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>{{ page.title }} · Academic Homepage</title>
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav-shell" aria-label="Primary navigation">
+        <a class="site-name" href="{{ '/' | relative_url }}">Xun Wu</a>
+        <div class="nav-links">
+          <a class="is-active" href="{{ '/' | relative_url }}">Home</a>
+          <a href="#research">Research</a>
+          <a href="#selected-publications">Selected Publications</a>
+          <a href="{{ '/publications/' | relative_url }}">Publications</a>
+          <a href="{{ '/blog/' | relative_url }}">Blog</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero page-shell" aria-labelledby="page-title">
+        <img class="profile-photo" src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Portrait of Xun Wu" width="220" height="275" />
+
+        <div class="hero-copy">
+          <p class="eyebrow">Microsoft Research</p>
+          <h1 id="page-title">Xun Wu <span>（吴浔）</span></h1>
+          <p class="role">Researcher · Large Language Models</p>
+          <p>
+            I am a researcher at <a href="https://www.microsoft.com/en-us/research/">Microsoft Research</a>. My research focuses on post-training for
+            large language models, mixture-of-experts, and low-bit language models. I am broadly interested in building efficient, capable, and
+            reliable foundation models.
+          </p>
+          <p>
+            I received my master's degree in Computer Software Engineering from <strong>Tsinghua University</strong> in 2024 and my bachelor's degree
+            in Computer Science from <strong>Central South University</strong> in 2021.
+          </p>
+          <div class="profile-links" aria-label="Academic profiles">
+            <a href="https://scholar.google.com/citations?user=H6v9t9kAAAAJ&hl=en">Google Scholar</a>
+            <a href="https://github.com/yushuiwx">GitHub</a>
+            <a href="{{ '/publications/' | relative_url }}">All Publications</a>
+          </div>
+        </div>
+
+        <aside class="interest-panel" aria-labelledby="interest-title">
+          <h2 id="interest-title">Research Interests</h2>
+          <ul>
+            <li>LLM post-training</li>
+            <li>Mixture-of-experts</li>
+            <li>Low-bit language models</li>
+            <li>Efficient foundation models</li>
+          </ul>
+        </aside>
+      </section>
+
+      <section id="research" class="content-section page-shell" aria-labelledby="research-title">
+        <div class="section-heading">
+          <p class="section-index">01</p>
+          <h2 id="research-title">Research</h2>
+        </div>
+        <div class="section-body research-summary">
+          <p>
+            My work studies how to adapt and improve large language models efficiently after pre-training. I am especially interested in training
+            methods, model architectures, and efficient representations that make foundation models more capable and practical.
+          </p>
+        </div>
+      </section>
+
+      <section id="selected-publications" class="content-section page-shell" aria-labelledby="selected-title">
+        <div class="section-heading">
+          <p class="section-index">02</p>
+          <h2 id="selected-title">Selected Publications</h2>
+        </div>
+        <div class="section-body">
+          <p class="section-note">
+            Five representative papers. Citation counts are synchronized daily from
+            <a href="https://scholar.google.com/citations?user=H6v9t9kAAAAJ&hl=en">Google Scholar</a>.
+          </p>
+          <div class="publications publications-selected">{% bibliography --query @*[selected=true] %}</div>
+          <p class="all-link"><a href="{{ '/publications/' | relative_url }}">View all publications →</a></p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="page-shell footer-inner">
+        <span>© {{ 'now' | date: '%Y' }} Xun Wu</span>
+        <span>Built with Jekyll · Hosted on GitHub Pages</span>
+      </div>
+    </footer>
+
+    <script src="{{ '/assets/js/academic.js' | relative_url }}"></script>
+  </body>
+</html>
