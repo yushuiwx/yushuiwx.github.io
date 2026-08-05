@@ -16,7 +16,7 @@ permalink: /
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600&amp;family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&amp;family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&amp;display=swap"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600&amp;family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600&amp;display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="{{ '/assets/css/academic.css' | relative_url }}" />
@@ -27,7 +27,6 @@ permalink: /
         <a class="site-name" href="{{ '/' | relative_url }}">Xun Wu</a>
         <div class="nav-links">
           <a class="is-active" href="{{ '/' | relative_url }}">Home</a>
-          <a href="#selected-publications">Selected Publications</a>
           <a href="{{ '/publications/' | relative_url }}">Publications</a>
           <a href="{{ '/blog/' | relative_url }}">Blog</a>
         </div>
@@ -64,24 +63,13 @@ permalink: /
             <li>LLM post-training</li>
             <li>Mixture-of-experts</li>
             <li>Low-bit language models</li>
-            <li>Efficient foundation models</li>
           </ul>
         </aside>
       </section>
 
-      <section id="selected-publications" class="content-section page-shell" aria-labelledby="selected-title">
-        <div class="section-heading">
-          <p class="section-index">01</p>
-          <h2 id="selected-title">Selected Publications</h2>
-        </div>
-        <div class="section-body">
-          <p class="section-note">
-            Five representative papers. Citation counts are synchronized daily from
-            <a href="https://scholar.google.com/citations?user=H6v9t9kAAAAJ&hl=en">Google Scholar</a>.
-          </p>
-          <div class="publications publications-selected">{% bibliography --query @*[selected=true] %}</div>
-          <p class="all-link"><a href="{{ '/publications/' | relative_url }}">View all publications →</a></p>
-        </div>
+      <section id="selected-publications" class="selected-section page-shell" aria-label="Selected publications">
+        <div class="publications publications-selected">{% bibliography --query @*[selected=true] %}</div>
+        <p class="all-link"><a href="{{ '/publications/' | relative_url }}">View all publications →</a></p>
       </section>
     </main>
 
