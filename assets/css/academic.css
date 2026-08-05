@@ -250,6 +250,8 @@ strong {
 .selected-section h3,
 .awards-section h3 {
   margin: 0;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 7px;
   color: var(--ink);
   font-size: 16.848px;
   font-weight: 600;
