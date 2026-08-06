@@ -337,6 +337,11 @@ strong {
   margin-right: 7px;
 }
 
+.award-context.award-venue {
+  color: #c62828;
+  font-weight: 600;
+}
+
 .award-list time {
   color: var(--muted);
   font-variant-numeric: tabular-nums;
