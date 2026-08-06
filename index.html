@@ -33,8 +33,22 @@ permalink: /
       </nav>
     </header>
 
+    <aside class="page-toc" data-page-toc aria-label="On this page">
+      <p class="page-toc-label">On this page</p>
+      <button class="page-toc-toggle" type="button" aria-expanded="false" aria-controls="home-toc-links">
+        <span>On this page</span>
+        <span aria-hidden="true">⌄</span>
+      </button>
+      <nav id="home-toc-links" class="page-toc-links">
+        <a href="#intro">Intro</a>
+        <a href="#selected-publications">Publications</a>
+        <a href="#awards">Awards</a>
+        {% if site.posts.size > 0 %}<a href="#recent-posts">Recent Posts</a>{% endif %}
+      </nav>
+    </aside>
+
     <main>
-      <section class="hero page-shell" aria-labelledby="page-title">
+      <section id="intro" class="hero page-shell" aria-labelledby="page-title">
         <img class="profile-photo" src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Portrait of Xun Wu" width="190" height="205" />
 
         <div class="hero-copy">
@@ -129,9 +143,42 @@ permalink: /
           </section>
         </div>
       </section>
+
+      {% if site.posts.size > 0 %}
+      <section id="recent-posts" class="recent-posts-section page-shell" aria-labelledby="recent-posts-title">
+        <h3 id="recent-posts-title">Recent Posts</h3>
+        <ol class="blog-list recent-posts-list">
+          {% for post in site.posts limit: 3 %} {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
+          <li class="blog-item">
+            <time class="blog-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%B %d, %Y' }}</time>
+            <article>
+              <h4><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h4>
+              {% if post.description %}
+              <p>{{ post.description }}</p>
+              {% endif %}
+              <p class="blog-meta">{{ read_time }} min read</p>
+            </article>
+          </li>
+          {% endfor %}
+        </ol>
+        <p class="all-link"><a href="{{ '/blog/' | relative_url }}">View all posts →</a></p>
+      </section>
+      {% endif %}
     </main>
 
     <footer class="site-footer">
+      {% if site.visitor_map.clustrmaps_id %}
+      <div class="visitor-map page-shell" aria-label="Visitor map">
+        <p class="visitor-map-title">Visitors</p>
+        <div class="visitor-map-widget">
+          <script
+            id="clustrmaps"
+            async
+            src="https://cdn.clustrmaps.com/map_v2.js?d={{ site.visitor_map.clustrmaps_id | url_encode }}&amp;cl=ffffff&amp;w=a&amp;t=n"
+          ></script>
+        </div>
+      </div>
+      {% endif %}
       <div class="page-shell footer-inner">
         <span>© {{ 'now' | date: '%Y' }} Xun Wu</span>
         <span>Built with Jekyll · Hosted on GitHub Pages</span>

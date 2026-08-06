@@ -40,8 +40,19 @@ pagination:
       </nav>
     </header>
 
+    <aside class="page-toc" data-page-toc data-toc-source="blog-years" aria-label="On this page">
+      <p class="page-toc-label">On this page</p>
+      <button class="page-toc-toggle" type="button" aria-expanded="false" aria-controls="blog-toc-links">
+        <span>On this page</span>
+        <span aria-hidden="true">⌄</span>
+      </button>
+      <nav id="blog-toc-links" class="page-toc-links">
+        <a href="#blog-overview">Overview</a>
+      </nav>
+    </aside>
+
     <main class="subpage-main page-shell">
-      <header class="subpage-header">
+      <header id="blog-overview" class="subpage-header">
         <p class="section-index">Notes & Ideas</p>
         <div>
           <h1 class="page-title">Blog</h1>
@@ -81,5 +92,7 @@ pagination:
         <span>Built with Jekyll · Hosted on GitHub Pages</span>
       </div>
     </footer>
+
+    <script src="{{ '/assets/js/academic.js' | relative_url }}?v={{ site.time | date: '%s' }}"></script>
   </body>
 </html>
