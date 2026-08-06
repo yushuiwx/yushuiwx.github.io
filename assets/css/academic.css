@@ -147,11 +147,11 @@ strong {
 
 .profile-photo {
   width: 190px;
-  height: auto;
-  max-height: 250px;
+  height: 205px;
   border: 1px solid var(--line);
   border-radius: 2px;
   object-fit: cover;
+  object-position: center 55%;
 }
 
 .eyebrow,
@@ -503,6 +503,7 @@ strong {
 
   .profile-photo {
     width: 160px;
+    height: 173px;
   }
 }
 
@@ -546,7 +547,7 @@ strong {
 
   .profile-photo {
     width: 112px;
-    max-height: 155px;
+    height: 121px;
   }
 
   .hero-copy .eyebrow {
@@ -651,7 +652,7 @@ strong {
 
   .profile-photo {
     width: 92px;
-    max-height: 132px;
+    height: 100px;
   }
 
   .hero h1 {
