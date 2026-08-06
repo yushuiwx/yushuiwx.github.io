@@ -129,7 +129,7 @@ analytics:
 enable_simple_analytics: false # Simple Analytics identifies a site by its domain, so it has no ID to set above
 
 # Optional public visitor map. Flag Counter starts collecting visits after the
-# widget is deployed; click the map on the site to view country statistics.
+# widget is deployed. Click the map on the site to view country statistics.
 visitor_map:
   provider: flagcounter
   flagcounter_id: 22iX
