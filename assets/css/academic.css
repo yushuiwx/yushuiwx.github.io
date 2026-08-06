@@ -662,15 +662,6 @@ strong {
   text-align: center;
 }
 
-.visitor-map-title {
-  margin: 0 0 5px;
-  color: var(--muted);
-  font-size: 10px;
-  font-weight: 600;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
-}
-
 .visitor-map-widget {
   width: min(100%, 170px);
   min-height: 95px;
@@ -750,7 +741,8 @@ strong {
 
   .hero {
     grid-template-columns: 112px minmax(0, 1fr);
-    gap: 22px;
+    column-gap: 22px;
+    row-gap: 0;
     padding-block: 34px 36px;
   }
 
@@ -819,7 +811,11 @@ strong {
   }
 
   .intro-visitor-map {
-    margin: 4px 0 0 auto;
+    margin: 4px 0 18px auto;
+  }
+
+  .hero-copy > p:last-of-type {
+    margin-bottom: 0;
   }
 
   
@@ -936,7 +932,8 @@ strong {
 @media (max-width: 400px) {
   .hero {
     grid-template-columns: 92px minmax(0, 1fr);
-    gap: 17px;
+    column-gap: 17px;
+    row-gap: 0;
   }
 
   .profile-photo {
