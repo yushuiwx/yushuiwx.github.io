@@ -706,10 +706,17 @@ strong {
 }
 
 .visitor-map-widget {
-  width: 180px;
-  min-height: 90px;
+  width: min(100%, 220px);
+  min-height: 100px;
   margin-inline: auto;
-  overflow: hidden;
+}
+
+.visitor-map-widget img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-inline: auto;
+  border: 0;
 }
 
 .site-footer {

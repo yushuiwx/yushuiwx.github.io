@@ -128,11 +128,11 @@ analytics:
   cloudflare: # your Cloudflare Web Analytics beacon token (32 hex characters)
 enable_simple_analytics: false # Simple Analytics identifies a site by its domain, so it has no ID to set above
 
-# Optional public visitor map. Create a free ClustrMaps widget for this domain
-# and paste its `d=` token below; the map remains hidden while this is blank.
+# Optional public visitor map. Flag Counter starts collecting visits after the
+# widget is deployed; click the map on the site to view country statistics.
 visitor_map:
-  provider: clustrmaps
-  clustrmaps_id:
+  provider: flagcounter
+  flagcounter_id: 22iX
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: # your google-site-verification ID (Google Search Console)

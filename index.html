@@ -167,15 +167,22 @@ permalink: /
     </main>
 
     <footer class="site-footer">
-      {% if site.visitor_map.clustrmaps_id %}
+      {% if site.visitor_map.provider == 'flagcounter' and site.visitor_map.flagcounter_id %}
       <div class="visitor-map page-shell" aria-label="Visitor map">
         <p class="visitor-map-title">Visitors</p>
         <div class="visitor-map-widget">
-          <script
-            id="clustrmaps"
-            async
-            src="https://cdn.clustrmaps.com/map_v2.js?d={{ site.visitor_map.clustrmaps_id | url_encode }}&amp;cl=ffffff&amp;w=a&amp;t=n"
-          ></script>
+          <a
+            href="https://info.flagcounter.com/{{ site.visitor_map.flagcounter_id | url_encode }}"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="View visitor locations and statistics"
+          >
+            <img
+              src="https://s01.flagcounter.com/map/{{ site.visitor_map.flagcounter_id | url_encode }}/size_t/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/"
+              alt="Map of visitor locations"
+              loading="lazy"
+            />
+          </a>
         </div>
       </div>
       {% endif %}
