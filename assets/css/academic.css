@@ -262,6 +262,74 @@ strong {
   margin-bottom: 24px;
 }
 
+.award-groups {
+  display: grid;
+  gap: 25px;
+  padding-top: 20px;
+}
+
+.award-group h4 {
+  margin: 0 0 7px;
+  color: var(--muted);
+  font-size: 13.824px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  line-height: 22px;
+}
+
+.award-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.award-list li {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 24px;
+  align-items: baseline;
+  padding-block: 5px;
+}
+
+.award-copy {
+  min-width: 0;
+}
+
+.award-rank {
+  margin-right: 5px;
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.award-rank::after {
+  content: "-";
+  margin-left: 5px;
+  color: var(--muted);
+  font-weight: 400;
+}
+
+.award-name {
+  color: var(--ink);
+}
+
+.award-context {
+  margin-left: 7px;
+  color: var(--muted);
+  font-size: 13.824px;
+  white-space: nowrap;
+}
+
+.award-context::before {
+  content: "·";
+  margin-right: 7px;
+}
+
+.award-list time {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
 .subpage-main {
   padding-block: 48px 60px;
 }
@@ -617,6 +685,28 @@ strong {
 
   .awards-section {
     padding-block: 28px 38px;
+  }
+
+  .award-list li {
+    grid-template-columns: 66px minmax(0, 1fr);
+    gap: 10px;
+    align-items: start;
+    padding-block: 7px;
+  }
+
+  .award-list time {
+    color: var(--muted);
+    font-size: 12.96px;
+  }
+
+  .award-context {
+    display: block;
+    margin-left: 0;
+    white-space: normal;
+  }
+
+  .award-context::before {
+    content: none;
   }
 
   .publications .row:has(.preview) {
