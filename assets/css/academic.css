@@ -266,7 +266,7 @@ strong {
 }
 
 .hero-heading-copy > .contact-line {
-  margin: -8px 0 18px;
+  margin: 7px 0 18px;
   color: var(--muted);
 }
 
@@ -846,7 +846,7 @@ strong {
     align-self: start;
     grid-column: 2;
     grid-row: 3;
-    margin: -8px 0 0;
+    margin: 5px 0 0;
   }
 
   .profile-links {
