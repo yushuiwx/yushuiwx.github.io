@@ -272,7 +272,7 @@ strong {
   display: flex;
   flex-wrap: wrap;
   gap: 7px 18px;
-  margin-top: 20px;
+  margin-top: 0;
   font-size: 14.4px;
   font-weight: 600;
 }
@@ -281,6 +281,14 @@ strong {
   margin-left: 18px;
   color: #aab3bc;
   content: "/";
+}
+
+.hero-bottom {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 28px;
+  margin-top: 18px;
 }
 
 .content-section {
@@ -691,23 +699,24 @@ strong {
   border-top: 0;
 }
 
-.visitor-map {
-  padding-top: 22px;
+.intro-visitor-map {
+  flex: 0 0 170px;
+  margin: 0;
   text-align: center;
 }
 
 .visitor-map-title {
-  margin: 0 0 8px;
+  margin: 0 0 5px;
   color: var(--muted);
-  font-size: 12px;
+  font-size: 10px;
   font-weight: 600;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.05em;
   text-transform: uppercase;
 }
 
 .visitor-map-widget {
-  width: min(100%, 220px);
-  min-height: 100px;
+  width: min(100%, 170px);
+  min-height: 95px;
   margin-inline: auto;
 }
 
@@ -813,7 +822,7 @@ strong {
   }
 
   .hero-copy > p:not(.eyebrow, .role),
-  .profile-links {
+  .hero-bottom {
     grid-column: 1 / -1;
   }
 
@@ -846,6 +855,15 @@ strong {
 
   .profile-links {
     margin-top: 0;
+  }
+
+  .hero-bottom {
+    flex-wrap: wrap;
+    gap: 18px;
+  }
+
+  .intro-visitor-map {
+    margin-left: auto;
   }
 
   .content-section,
@@ -932,7 +950,7 @@ strong {
 @media (min-width: 1320px) {
   .page-toc {
     position: fixed;
-    top: 84px;
+    top: 108px;
     left: max(18px, calc(50% - 665px));
     width: 120px;
     margin: 0;

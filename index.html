@@ -60,11 +60,32 @@ permalink: /
             large language models, mixture-of-experts, and low-bit language models. I am broadly interested in building frontier foundation models.
           </p>
           <p>I received my master's degree in Computer Software Engineering from <strong>Tsinghua University</strong> in 2024.</p>
-          <div class="profile-links" aria-label="Academic profiles">
-            <a href="https://scholar.google.com/citations?user=H6v9t9kAAAAJ&hl=en">Google Scholar</a>
-            <a href="https://github.com/yushuiwx">GitHub</a>
-            <a href="https://www.linkedin.com/in/xun-wu-a8a32b302/">LinkedIn</a>
-            <a href="{{ '/publications/' | relative_url }}">All Publications</a>
+          <div class="hero-bottom">
+            <div class="profile-links" aria-label="Academic profiles">
+              <a href="https://scholar.google.com/citations?user=H6v9t9kAAAAJ&hl=en">Google Scholar</a>
+              <a href="https://github.com/yushuiwx">GitHub</a>
+              <a href="https://www.linkedin.com/in/xun-wu-a8a32b302/">LinkedIn</a>
+              <a href="{{ '/publications/' | relative_url }}">All Publications</a>
+            </div>
+            {% if site.visitor_map.provider == 'flagcounter' and site.visitor_map.flagcounter_id %}
+            <aside class="intro-visitor-map" aria-label="Visitor map">
+              <p class="visitor-map-title">Visitors</p>
+              <div class="visitor-map-widget">
+                <a
+                  href="https://info.flagcounter.com/{{ site.visitor_map.flagcounter_id | url_encode }}"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="View visitor locations and statistics"
+                >
+                  <img
+                    src="https://s01.flagcounter.com/map/{{ site.visitor_map.flagcounter_id | url_encode }}/size_t/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/"
+                    alt="Map of visitor locations"
+                    loading="lazy"
+                  />
+                </a>
+              </div>
+            </aside>
+            {% endif %}
           </div>
         </div>
       </section>
@@ -167,25 +188,6 @@ permalink: /
     </main>
 
     <footer class="site-footer">
-      {% if site.visitor_map.provider == 'flagcounter' and site.visitor_map.flagcounter_id %}
-      <div class="visitor-map page-shell" aria-label="Visitor map">
-        <p class="visitor-map-title">Visitors</p>
-        <div class="visitor-map-widget">
-          <a
-            href="https://info.flagcounter.com/{{ site.visitor_map.flagcounter_id | url_encode }}"
-            target="_blank"
-            rel="noopener noreferrer"
-            aria-label="View visitor locations and statistics"
-          >
-            <img
-              src="https://s01.flagcounter.com/map/{{ site.visitor_map.flagcounter_id | url_encode }}/size_t/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/"
-              alt="Map of visitor locations"
-              loading="lazy"
-            />
-          </a>
-        </div>
-      </div>
-      {% endif %}
       <div class="page-shell footer-inner">
         <span>© {{ 'now' | date: '%Y' }} Xun Wu</span>
         <span>Built with Jekyll · Hosted on GitHub Pages</span>
