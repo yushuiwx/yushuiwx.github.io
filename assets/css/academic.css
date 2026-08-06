@@ -648,6 +648,34 @@ strong {
   padding: 25px 0;
 }
 
+.visitor-map {
+  padding-top: 22px;
+  text-align: center;
+}
+
+.visitor-map-title {
+  margin: 0 0 8px;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.visitor-map-widget {
+  width: min(100%, 220px);
+  min-height: 100px;
+  margin-inline: auto;
+}
+
+.visitor-map-widget img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-inline: auto;
+  border: 0;
+}
+
 .site-footer {
   border-top: 1px solid var(--line);
   background: #fafbfc;
