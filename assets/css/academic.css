@@ -220,6 +220,13 @@ strong {
   object-position: center 62%;
 }
 
+.hero-heading {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 170px;
+  gap: 24px;
+  align-items: start;
+}
+
 .eyebrow,
 .section-index {
   margin: 0 0 5px;
@@ -258,7 +265,7 @@ strong {
   margin: 0 0 12px;
 }
 
-.hero-copy > .contact-line {
+.hero-heading-copy > .contact-line {
   margin: -8px 0 18px;
   color: var(--muted);
 }
@@ -272,7 +279,7 @@ strong {
   display: flex;
   flex-wrap: wrap;
   gap: 7px 18px;
-  margin-top: 0;
+  margin-top: 20px;
   font-size: 14.4px;
   font-weight: 600;
 }
@@ -281,14 +288,6 @@ strong {
   margin-left: 18px;
   color: #aab3bc;
   content: "/";
-}
-
-.hero-bottom {
-  display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
-  gap: 28px;
-  margin-top: 18px;
 }
 
 
@@ -657,8 +656,9 @@ strong {
 }
 
 .intro-visitor-map {
-  flex: 0 0 170px;
+  width: 170px;
   margin: 0;
+  justify-self: end;
   text-align: center;
 }
 
@@ -779,11 +779,14 @@ strong {
   }
 
   .hero-copy > p:not(.eyebrow, .role),
-  .hero-bottom {
+  .profile-links,
+  .intro-visitor-map {
     grid-column: 1 / -1;
   }
 
-  .hero-copy {
+  .hero-copy,
+  .hero-heading,
+  .hero-heading-copy {
     display: contents;
   }
 
@@ -792,35 +795,31 @@ strong {
     grid-row: 1 / 4;
   }
 
-  .hero-copy .eyebrow {
+  .hero-heading-copy .eyebrow {
     align-self: end;
     grid-column: 2;
     grid-row: 1;
   }
 
-  .hero-copy h1 {
+  .hero-heading-copy h1 {
     align-self: center;
     grid-column: 2;
     grid-row: 2;
   }
 
-  .hero-copy .role {
+  .hero-heading-copy .contact-line {
     align-self: start;
     grid-column: 2;
     grid-row: 3;
+    margin: -8px 0 0;
   }
 
   .profile-links {
-    margin-top: 0;
-  }
-
-  .hero-bottom {
-    flex-wrap: wrap;
-    gap: 18px;
+    margin-top: 20px;
   }
 
   .intro-visitor-map {
-    margin-left: auto;
+    margin: 4px 0 0 auto;
   }
 
   
