@@ -1,147 +1,152 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_checked: '2026-08-08T15:43:42Z'
+  last_updated: '2026-08-08'
 papers:
-  H6v9t9kAAAAJ:Zph67rFs4hoC:
-    citations: 372
-    title: 'Mixture of LoRA Experts'
-    year: '2024'
-  H6v9t9kAAAAJ:L8Ckcad2t8MC:
-    citations: 103
-    title: 'Geometric-Mean Policy Optimization'
-    year: '2026'
-  H6v9t9kAAAAJ:iH-uZ7U-co4C:
-    citations: 90
-    title: 'On-Policy Context Distillation for Language Models'
-    year: '2026'
-  H6v9t9kAAAAJ:ufrVoPGSRksC:
-    citations: 71
-    title: 'NTIRE 2022 Spectral Demosaicing Challenge and Data Set'
-    year: '2022'
-  H6v9t9kAAAAJ:QIV2ME_5wuYC:
-    citations: 64
-    title: 'Reward Reasoning Models'
+  H6v9t9kAAAAJ:-f6ydRqryjwC:
+    citations: 1
+    title: 'The Era of Agentic Organization: Learning to Organize with Language Models'
     year: '2025'
-  H6v9t9kAAAAJ:9ZlFYXVOiuMC:
-    citations: 57
-    title: 'Think Only When You Need with Large Hybrid-Reasoning Models'
-    year: '2025'
-  H6v9t9kAAAAJ:d1gkVwhDpl0C:
-    citations: 53
-    title: 'Prompt-Based Zero-Shot Video Moment Retrieval'
-    year: '2022'
-  H6v9t9kAAAAJ:Wp0gIr-vW9MC:
-    citations: 52
-    title: 'Multimodal Large Language Models Make Text-to-Image Generative Models Align Better'
-    year: '2024'
-  H6v9t9kAAAAJ:k_IJM867U9cC:
-    citations: 50
-    title: 'Multi-Head Mixture-of-Experts'
-    year: '2024'
-  H6v9t9kAAAAJ:_FxGoFyzp5QC:
-    citations: 44
-    title: 'Learned Smartphone ISP on Mobile GPUs with Deep Learning, Mobile AI & AIM 2022 Challenge: Report'
-    year: '2022'
-  H6v9t9kAAAAJ:mB3voiENLucC:
-    citations: 36
-    title: 'Black-Box On-Policy Distillation of Large Language Models'
-    year: '2025'
-  H6v9t9kAAAAJ:hqOjcs7Dif8C:
-    citations: 31
-    title: 'Progressive Reinforcement Learning for Video Summarization'
-    year: '2024'
-  H6v9t9kAAAAJ:dhFuZR0502QC:
-    citations: 29
-    title: 'On-Policy RL with Optimal Reward Baseline'
-    year: '2025'
-  H6v9t9kAAAAJ:_kc_bZDykSQC:
-    citations: 26
-    title: 'UncertaintyRAG: Span-Level Uncertainty Enhanced Long-Context Modeling for Retrieval-Augmented Generation'
-    year: '2024'
-  H6v9t9kAAAAJ:MXK_kJrjxJIC:
-    citations: 25
-    title: 'The Heterophilic Snowflake Hypothesis: Training and Empowering GNNs for Heterophilic Graphs'
+  H6v9t9kAAAAJ:3fE2CSJIrl8C:
+    citations: 1
+    title: An efficient transformer for demosaicing via compressed multi-branch attention mechanism
     year: '2024'
   H6v9t9kAAAAJ:4DMP91E08xMC:
     citations: 22
-    title: 'Boosting Text-to-Video Generative Model with MLLMs Feedback'
+    title: Boosting text-to-video generative model with mllms feedback
     year: '2024'
-  H6v9t9kAAAAJ:LkGwnXOMwfcC:
-    citations: 20
-    title: 'MIPI 2022 Challenge on Quad-Bayer Re-Mosaic: Dataset and Report'
-    year: '2022'
-  H6v9t9kAAAAJ:isC4tDSrTZIC:
-    citations: 18
-    title: 'Online Experiential Learning for Language Models'
-    year: '2026'
-  H6v9t9kAAAAJ:Se3iqnhoufwC:
-    citations: 12
-    title: 'MIPI 2023 Challenge on RGBW Remosaic: Methods and Results'
-    year: '2023'
-  H6v9t9kAAAAJ:7PzlFSSx8tAC:
-    citations: 8
-    title: 'MH-MoE: Multi-Head Mixture-of-Experts'
-    year: '2024'
-  H6v9t9kAAAAJ:YOwf2qJgpHMC:
-    citations: 8
-    title: 'UnComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference'
-    year: '2024'
-  H6v9t9kAAAAJ:W7OEmFMy1HYC:
-    citations: 8
-    title: 'OTST: A Two-Phase Framework for Joint Denoising and Remosaicing in RGBW CFA'
-    year: '2023'
-  H6v9t9kAAAAJ:M3ejUd6NZC8C:
-    citations: 7
-    title: 'Textual Aesthetics in Large Language Models'
-    year: '2025'
   H6v9t9kAAAAJ:4TOpqqG69KYC:
     citations: 7
-    title: 'Unsupervised Video Moment Retrieval with Knowledge-Based Pseudo-Supervision Construction'
+    title: Unsupervised video moment retrieval with knowledge-based pseudo-supervision construction
     year: '2025'
-  H6v9t9kAAAAJ:kNdYIx-mwKoC:
-    citations: 7
-    title: 'Routing Evidence for Unseen Actions in Video Moment Retrieval'
+  H6v9t9kAAAAJ:7PzlFSSx8tAC:
+    citations: 8
+    title: 'Mh-moe: Multi-head mixture-of-experts'
+    year: '2024'
+  H6v9t9kAAAAJ:9ZlFYXVOiuMC:
+    citations: 57
+    title: Think only when you need with large hybrid-reasoning models
+    year: '2026'
+  H6v9t9kAAAAJ:IWHjjKOFINEC:
+    citations: 1
+    title: 'Kosmos-e: Learning to follow instruction for robotic grasping'
     year: '2024'
   H6v9t9kAAAAJ:IjCSPb-OGe4C:
     citations: 7
-    title: 'Reducing 0S Bias in Video Moment Retrieval with a Circular Competence-Based Captioner'
+    title: Reducing 0s bias in video moment retrieval with a circular competence-based captioner
     year: '2023'
-  H6v9t9kAAAAJ:Tyk-4Ss8FVUC:
-    citations: 6
-    title: 'Learning to Joint Remosaic and Denoise in Quad Bayer CFA via Universal Multi-Scale Channel Attention Network'
+  H6v9t9kAAAAJ:L8Ckcad2t8MC:
+    citations: 103
+    title: Geometric-mean policy optimization
+    year: '2026'
+  H6v9t9kAAAAJ:LkGwnXOMwfcC:
+    citations: 20
+    title: 'Mipi 2022 challenge on quad-bayer re-mosaic: Dataset and report'
     year: '2022'
-  H6v9t9kAAAAJ:qUcmZB5y_30C:
-    citations: 4
-    title: 'BitNet Distillation'
+  H6v9t9kAAAAJ:M3ejUd6NZC8C:
+    citations: 7
+    title: Textual aesthetics in large language models
     year: '2025'
-  H6v9t9kAAAAJ:hFOr9nPyWt4C:
-    citations: 3
-    title: 'Rethinking DPO-Style Diffusion Aligning Frameworks'
-    year: '2025'
-  H6v9t9kAAAAJ:roLk4NBRz8UC:
-    citations: 3
-    title: 'Joint Demosaicing and Denoising with Gradient Guidance in Quad Bayer CFA'
+  H6v9t9kAAAAJ:MXK_kJrjxJIC:
+    citations: 25
+    title: 'The heterophilic snowflake hypothesis: Training and empowering gnns for heterophilic graphs'
+    year: '2024'
+  H6v9t9kAAAAJ:QIV2ME_5wuYC:
+    citations: 64
+    title: Reward reasoning models
+    year: '2026'
+  H6v9t9kAAAAJ:Se3iqnhoufwC:
+    citations: 12
+    title: 'Mipi 2023 challenge on rgbw remosaic: Methods and results'
     year: '2023'
   H6v9t9kAAAAJ:TFP_iSt0sucC:
     citations: 1
     title: 'SlideSparse: Fast and Flexible (2N-2): 2N Structured Sparsity'
     year: '2026'
-  H6v9t9kAAAAJ:-f6ydRqryjwC:
-    citations: 1
-    title: 'The Era of Agentic Organization: Learning to Organize with Language Models'
-    year: '2025'
-  H6v9t9kAAAAJ:IWHjjKOFINEC:
-    citations: 1
-    title: 'Kosmos-E: Learning to Follow Instruction for Robotic Grasping'
+  H6v9t9kAAAAJ:Tyk-4Ss8FVUC:
+    citations: 6
+    title: Learning to joint remosaic and denoise in quad bayer cfa via universal multi-scale channel attention network
+    year: '2022'
+  H6v9t9kAAAAJ:W7OEmFMy1HYC:
+    citations: 8
+    title: 'Otst: A two-phase framework for joint denoising and remosaicing in rgbw cfa'
+    year: '2023'
+  H6v9t9kAAAAJ:Wp0gIr-vW9MC:
+    citations: 52
+    title: Multimodal large language models make text-to-image generative models align better
     year: '2024'
-  H6v9t9kAAAAJ:3fE2CSJIrl8C:
-    citations: 1
-    title: 'An Efficient Transformer for Demosaicing via Compressed Multi-Branch Attention Mechanism'
+  H6v9t9kAAAAJ:YOwf2qJgpHMC:
+    citations: 8
+    title: 'Uncomp: Uncertainty-aware long-context compressor for efficient large language model inference'
     year: '2024'
-  H6v9t9kAAAAJ:hC7cP41nSMkC:
-    citations: 0
-    title: 'Towards Stable and Effective Reinforcement Learning for Mixture-of-Experts'
+  H6v9t9kAAAAJ:ZeXyd9-uunAC:
+    citations: 17
+    title: 'Viscodex: Unified multimodal code generation via merging vision and coding models'
     year: '2026'
+  H6v9t9kAAAAJ:Zph67rFs4hoC:
+    citations: 381
+    title: Mixture of lora experts
+    year: '2024'
+  H6v9t9kAAAAJ:_FxGoFyzp5QC:
+    citations: 44
+    title: 'Learned smartphone isp on mobile gpus with deep learning, mobile ai & aim 2022 challenge: report'
+    year: '2022'
+  H6v9t9kAAAAJ:_kc_bZDykSQC:
+    citations: 27
+    title: 'Uncertaintyrag: Span-level uncertainty enhanced long-context modeling for retrieval-augmented generation'
+    year: '2024'
   H6v9t9kAAAAJ:bEWYMUwI8FkC:
     citations: 0
-    title: 'Sparse-BitNet: 1.58-Bit LLMs Are Naturally Friendly to Semi-Structured Sparsity'
+    title: 'Sparse-BitNet: 1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity'
     year: '2026'
+  H6v9t9kAAAAJ:d1gkVwhDpl0C:
+    citations: 53
+    title: Prompt-based zero-shot video moment retrieval
+    year: '2022'
+  H6v9t9kAAAAJ:dhFuZR0502QC:
+    citations: 29
+    title: On-policy rl with optimal reward baseline
+    year: '2025'
+  H6v9t9kAAAAJ:hC7cP41nSMkC:
+    citations: 0
+    title: Towards Stable and Effective Reinforcement Learning for Mixture-of-Experts
+    year: '2026'
+  H6v9t9kAAAAJ:hFOr9nPyWt4C:
+    citations: 3
+    title: Rethinking dpo-style diffusion aligning frameworks
+    year: '2025'
+  H6v9t9kAAAAJ:hqOjcs7Dif8C:
+    citations: 31
+    title: Progressive reinforcement learning for video summarization
+    year: '2024'
+  H6v9t9kAAAAJ:iH-uZ7U-co4C:
+    citations: 94
+    title: On-policy context distillation for language models
+    year: '2026'
+  H6v9t9kAAAAJ:isC4tDSrTZIC:
+    citations: 19
+    title: Online experiential learning for language models
+    year: '2026'
+  H6v9t9kAAAAJ:kNdYIx-mwKoC:
+    citations: 7
+    title: Routing evidence for unseen actions in video moment retrieval
+    year: '2024'
+  H6v9t9kAAAAJ:k_IJM867U9cC:
+    citations: 51
+    title: Multi-head mixture-of-experts
+    year: '2024'
+  H6v9t9kAAAAJ:mB3voiENLucC:
+    citations: 37
+    title: Black-box on-policy distillation of large language models
+    year: '2025'
+  H6v9t9kAAAAJ:qUcmZB5y_30C:
+    citations: 6
+    title: Bitnet distillation
+    year: '2025'
+  H6v9t9kAAAAJ:roLk4NBRz8UC:
+    citations: 3
+    title: Joint demosaicing and denoising with gradient guidance in quad Bayer CFA
+    year: '2023'
+  H6v9t9kAAAAJ:ufrVoPGSRksC:
+    citations: 71
+    title: NTIRE 2022 spectral demosaicing challenge and data set
+    year: '2022'
