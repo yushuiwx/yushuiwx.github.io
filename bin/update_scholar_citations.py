@@ -3,7 +3,7 @@
 import os
 import sys
 import yaml
-from datetime import datetime
+from datetime import datetime, timezone
 from scholarly import scholarly
 
 
@@ -34,33 +34,54 @@ def load_scholar_user_id() -> str:
 
 SCHOLAR_USER_ID: str = load_scholar_user_id()
 OUTPUT_FILE: str = "_data/citations.yml"
+MINIMUM_EXISTING_PAPER_RATIO: float = 0.8
+
+
+def load_existing_data() -> dict:
+    """Load the last known-good citation data, if available."""
+    if not os.path.exists(OUTPUT_FILE):
+        return {}
+
+    try:
+        with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+            data = yaml.safe_load(f) or {}
+        if not isinstance(data, dict):
+            raise ValueError("top-level YAML value is not a mapping")
+        return data
+    except Exception as e:
+        print(f"Error reading existing citation data from {OUTPUT_FILE}: {e}")
+        sys.exit(1)
+
+
+def validate_publications(new_papers: dict, existing_papers: dict) -> None:
+    """Reject empty or suspiciously incomplete Scholar responses."""
+    if not new_papers:
+        print("Google Scholar returned no usable publications; keeping existing data.")
+        sys.exit(1)
+
+    existing_count = len(existing_papers)
+    minimum_count = int(existing_count * MINIMUM_EXISTING_PAPER_RATIO)
+    if existing_count and len(new_papers) < minimum_count:
+        print(
+            "Google Scholar returned a suspiciously incomplete publication list "
+            f"({len(new_papers)} fetched, {existing_count} stored, minimum accepted "
+            f"{minimum_count}); keeping existing data."
+        )
+        sys.exit(1)
 
 
 def get_scholar_citations() -> None:
     """Fetch and update Google Scholar citation data."""
     print(f"Fetching citations for Google Scholar ID: {SCHOLAR_USER_ID}")
-    today = datetime.now().strftime("%Y-%m-%d")
+    checked_at = datetime.now(timezone.utc)
+    today = checked_at.strftime("%Y-%m-%d")
+    existing_data = load_existing_data()
+    existing_papers = existing_data.get("papers", {})
+    if not isinstance(existing_papers, dict):
+        print(f"Existing citation data in {OUTPUT_FILE} has an invalid papers mapping.")
+        sys.exit(1)
 
-    # Check if the output file was already updated today
-    if os.path.exists(OUTPUT_FILE):
-        try:
-            with open(OUTPUT_FILE, "r") as f:
-                existing_data = yaml.safe_load(f)
-            if (
-                existing_data
-                and "metadata" in existing_data
-                and "last_updated" in existing_data["metadata"]
-            ):
-                print(f"Last updated on: {existing_data['metadata']['last_updated']}")
-                if existing_data["metadata"]["last_updated"] == today:
-                    print("Citations data is already up-to-date. Skipping fetch.")
-                    return
-        except Exception as e:
-            print(
-                f"Warning: Could not read existing citation data from {OUTPUT_FILE}: {e}. The file may be missing or corrupted."
-            )
-
-    citation_data = {"metadata": {"last_updated": today}, "papers": {}}
+    citation_data = {"metadata": {}, "papers": {}}
 
     scholarly.set_timeout(15)
     scholarly.set_retries(3)
@@ -79,7 +100,7 @@ def get_scholar_citations() -> None:
         )
         sys.exit(1)
 
-    if "publications" not in author_data:
+    if not author_data.get("publications"):
         print(f"No publications found in author data for user ID '{SCHOLAR_USER_ID}'.")
         sys.exit(1)
 
@@ -108,13 +129,27 @@ def get_scholar_citations() -> None:
                 f"Error processing publication '{pub.get('bib', {}).get('title', 'Unknown')}': {e}. This publication will be skipped."
             )
 
-    # Compare new data with existing data
-    if existing_data and existing_data.get("papers") == citation_data["papers"]:
-        print("No changes in citation data. Skipping file update.")
-        return
+    validate_publications(citation_data["papers"], existing_papers)
+
+    papers_changed = existing_papers != citation_data["papers"]
+    previous_metadata = existing_data.get("metadata", {})
+    if not isinstance(previous_metadata, dict):
+        previous_metadata = {}
+
+    citation_data["metadata"] = {
+        "last_checked": checked_at.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "last_updated": today
+        if papers_changed
+        else previous_metadata.get("last_updated", today),
+    }
+
+    if papers_changed:
+        print("Citation counts or publications changed.")
+    else:
+        print("Citation counts are unchanged; recording the successful check time.")
 
     try:
-        with open(OUTPUT_FILE, "w") as f:
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             yaml.dump(citation_data, f, width=1000, sort_keys=True)
         print(f"Citation data saved to {OUTPUT_FILE}")
     except Exception as e:
