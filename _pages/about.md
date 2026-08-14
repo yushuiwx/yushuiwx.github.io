@@ -34,7 +34,7 @@ latest_posts:
   }
 </style>
 
-I am a researcher at **Microsoft Research**. My research focuses on post-training for large language models, mixture-of-experts, and low-bit language models. I am broadly interested in building efficient, capable, and reliable foundation models.
+I am a researcher at **Microsoft Research**. I am broadly interested in building frontier foundation models, with a particular focus on post-training for large language models (e.g., OPD and RL), mixture-of-experts, and low-bit language models (e.g., BitNet).
 
 I received my master's degree in Computer Software Engineering from **Tsinghua University** in 2024.
 
