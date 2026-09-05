@@ -1,6 +1,6 @@
 metadata:
-  last_checked: '2026-08-25T02:18:19Z'
-  last_updated: '2026-08-24'
+  last_checked: '2026-09-05T05:18:05Z'
+  last_updated: '2026-09-05'
 papers:
   H6v9t9kAAAAJ:-f6ydRqryjwC:
     citations: 2
@@ -23,7 +23,7 @@ papers:
     title: 'Mh-moe: Multi-head mixture-of-experts'
     year: '2024'
   H6v9t9kAAAAJ:9ZlFYXVOiuMC:
-    citations: 59
+    citations: 60
     title: Think only when you need with large hybrid-reasoning models
     year: '2026'
   H6v9t9kAAAAJ:IWHjjKOFINEC:
@@ -35,7 +35,7 @@ papers:
     title: Reducing 0s bias in video moment retrieval with a circular competence-based captioner
     year: '2023'
   H6v9t9kAAAAJ:L8Ckcad2t8MC:
-    citations: 108
+    citations: 109
     title: Geometric-mean policy optimization
     year: '2026'
   H6v9t9kAAAAJ:LkGwnXOMwfcC:
@@ -51,7 +51,7 @@ papers:
     title: 'The heterophilic snowflake hypothesis: Training and empowering gnns for heterophilic graphs'
     year: '2024'
   H6v9t9kAAAAJ:QIV2ME_5wuYC:
-    citations: 68
+    citations: 69
     title: Reward reasoning models
     year: '2026'
   H6v9t9kAAAAJ:Se3iqnhoufwC:
@@ -83,11 +83,11 @@ papers:
     title: 'Viscodex: Unified multimodal code generation via merging vision and coding models'
     year: '2026'
   H6v9t9kAAAAJ:Zph67rFs4hoC:
-    citations: 384
+    citations: 390
     title: Mixture of lora experts
     year: '2024'
   H6v9t9kAAAAJ:_FxGoFyzp5QC:
-    citations: 44
+    citations: 45
     title: 'Learned smartphone isp on mobile gpus with deep learning, mobile ai & aim 2022 challenge: report'
     year: '2022'
   H6v9t9kAAAAJ:_kc_bZDykSQC:
@@ -103,7 +103,7 @@ papers:
     title: Prompt-based zero-shot video moment retrieval
     year: '2022'
   H6v9t9kAAAAJ:dhFuZR0502QC:
-    citations: 29
+    citations: 30
     title: On-policy rl with optimal reward baseline
     year: '2025'
   H6v9t9kAAAAJ:hC7cP41nSMkC:
@@ -115,11 +115,11 @@ papers:
     title: Rethinking dpo-style diffusion aligning frameworks
     year: '2025'
   H6v9t9kAAAAJ:hqOjcs7Dif8C:
-    citations: 31
+    citations: 32
     title: Progressive reinforcement learning for video summarization
     year: '2024'
   H6v9t9kAAAAJ:iH-uZ7U-co4C:
-    citations: 103
+    citations: 108
     title: On-policy context distillation for language models
     year: '2026'
   H6v9t9kAAAAJ:isC4tDSrTZIC:
@@ -131,7 +131,7 @@ papers:
     title: Routing evidence for unseen actions in video moment retrieval
     year: '2024'
   H6v9t9kAAAAJ:k_IJM867U9cC:
-    citations: 51
+    citations: 52
     title: Multi-head mixture-of-experts
     year: '2024'
   H6v9t9kAAAAJ:mB3voiENLucC:
